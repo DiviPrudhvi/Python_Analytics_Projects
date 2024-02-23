@@ -1,0 +1,2191 @@
+id,year,month,day,country,discount,sales
+0,2021,January,1,United States,0.1,62500
+1,2021,January,2,United States,0,109000
+2,2021,January,3,United States,0,95000
+3,2021,January,4,United States,0.15,100250
+4,2021,January,5,United States,0.15,86250
+5,2021,January,6,United States,0.1,152500
+6,2021,January,7,United States,0,139000
+7,2021,January,8,United States,0,145000
+8,2021,January,9,United States,0,111000
+9,2021,January,10,United States,0.2,116000
+10,2021,January,11,United States,0.05,122750
+11,2021,January,12,United States,0.1,148500
+12,2021,January,13,United States,0.05,134750
+13,2021,January,14,United States,0,141000
+14,2021,January,15,United States,0.15,166250
+15,2021,January,16,United States,0.05,172750
+16,2021,January,17,United States,0.05,158750
+17,2021,January,18,United States,0.05,164750
+18,2021,January,19,United States,0,231000
+19,2021,January,20,United States,0.15,216250
+20,2021,January,21,United States,0,243000
+21,2021,January,22,United States,0.05,248750
+22,2021,January,23,United States,0.1,254500
+23,2021,January,24,United States,0,221000
+24,2021,January,25,United States,0.05,206750
+25,2021,January,26,United States,0,253000
+26,2021,January,27,United States,0.05,218750
+27,2021,January,28,United States,0,225000
+28,2021,January,29,United States,0,271000
+29,2021,January,30,United States,0,297000
+30,2021,January,31,United States,0.05,302750
+31,2021,February,1,United States,0.1,109500
+32,2021,February,2,United States,0,76000
+33,2021,February,3,United States,0,82000
+34,2021,February,4,United States,0,88000
+35,2021,February,5,United States,0,134000
+36,2021,February,6,United States,0.1,139500
+37,2021,February,7,United States,0,106000
+38,2021,February,8,United States,0,152000
+39,2021,February,9,United States,0.15,117250
+40,2021,February,10,United States,0,164000
+41,2021,February,11,United States,0,150000
+42,2021,February,12,United States,0.05,195750
+43,2021,February,13,United States,0,142000
+44,2021,February,14,United States,0.1,147500
+45,2021,February,15,United States,0.1,193500
+46,2021,February,16,United States,0.05,159750
+47,2021,February,17,United States,0.05,165750
+48,2021,February,18,United States,0.1,171500
+49,2021,February,19,United States,0,238000
+50,2021,February,20,United States,0.05,203750
+51,2021,February,21,United States,0.1,209500
+52,2021,February,22,United States,0,236000
+53,2021,February,23,United States,0,262000
+54,2021,February,24,United States,0,268000
+55,2021,February,25,United States,0,254000
+56,2021,February,26,United States,0.05,239750
+57,2021,February,27,United States,0,286000
+58,2021,February,28,United States,0,232000
+59,2021,March,1,United States,0,117000
+60,2021,March,2,United States,0.2,102000
+61,2021,March,3,United States,0.2,88000
+62,2021,March,4,United States,0,95000
+63,2021,March,5,United States,0,161000
+64,2021,March,6,United States,0,167000
+65,2021,March,7,United States,0,173000
+66,2021,March,8,United States,0.15,178250
+67,2021,March,9,United States,0,145000
+68,2021,March,10,United States,0.05,170750
+69,2021,March,11,United States,0.05,136750
+70,2021,March,12,United States,0.05,202750
+71,2021,March,13,United States,0,189000
+72,2021,March,14,United States,0,195000
+73,2021,March,15,United States,0,221000
+74,2021,March,16,United States,0,167000
+75,2021,March,17,United States,0.15,232250
+76,2021,March,18,United States,0.1,178500
+77,2021,March,19,United States,0.15,184250
+78,2021,March,20,United States,0,191000
+79,2021,March,21,United States,0,197000
+80,2021,March,22,United States,0,203000
+81,2021,March,23,United States,0.1,228500
+82,2021,March,24,United States,0,215000
+83,2021,March,25,United States,0.05,240750
+84,2021,March,26,United States,0.1,226500
+85,2021,March,27,United States,0.05,232750
+86,2021,March,28,United States,0.15,258250
+87,2021,March,29,United States,0,285000
+88,2021,March,30,United States,0.05,270750
+89,2021,March,31,United States,0,317000
+90,2021,April,1,United States,0,104000
+91,2021,April,2,United States,0.2,109000
+92,2021,April,3,United States,0,116000
+93,2021,April,4,United States,0.15,121250
+94,2021,April,5,United States,0,128000
+95,2021,April,6,United States,0.05,153750
+96,2021,April,7,United States,0,140000
+97,2021,April,8,United States,0.15,185250
+98,2021,April,9,United States,0.05,191750
+99,2021,April,10,United States,0,138000
+100,2021,April,11,United States,0.1,143500
+101,2021,April,12,United States,0.05,149750
+102,2021,April,13,United States,0,216000
+103,2021,April,14,United States,0,162000
+104,2021,April,15,United States,0.15,187250
+105,2021,April,16,United States,0,234000
+106,2021,April,17,United States,0,180000
+107,2021,April,18,United States,0.05,185750
+108,2021,April,19,United States,0,212000
+109,2021,April,20,United States,0.1,197500
+110,2021,April,21,United States,0.1,203500
+111,2021,April,22,United States,0,210000
+112,2021,April,23,United States,0.15,235250
+113,2021,April,24,United States,0,282000
+114,2021,April,25,United States,0,268000
+115,2021,April,26,United States,0,294000
+116,2021,April,27,United States,0.15,239250
+117,2021,April,28,United States,0.1,245500
+118,2021,April,29,United States,0.05,291750
+119,2021,April,30,United States,0.05,297750
+120,2021,May,1,United States,0.05,90750
+121,2021,May,2,United States,0.1,136500
+122,2021,May,3,United States,0,123000
+123,2021,May,4,United States,0.05,168750
+124,2021,May,5,United States,0.1,134500
+125,2021,May,6,United States,0.05,120750
+126,2021,May,7,United States,0.15,126250
+127,2021,May,8,United States,0.1,192500
+128,2021,May,9,United States,0,199000
+129,2021,May,10,United States,0.05,164750
+130,2021,May,11,United States,0.1,170500
+131,2021,May,12,United States,0,217000
+132,2021,May,13,United States,0.05,202750
+133,2021,May,14,United States,0.15,208250
+134,2021,May,15,United States,0,175000
+135,2021,May,16,United States,0,201000
+136,2021,May,17,United States,0,227000
+137,2021,May,18,United States,0,193000
+138,2021,May,19,United States,0.15,198250
+139,2021,May,20,United States,0.1,264500
+140,2021,May,21,United States,0,231000
+141,2021,May,22,United States,0,257000
+142,2021,May,23,United States,0.05,222750
+143,2021,May,24,United States,0.05,288750
+144,2021,May,25,United States,0,235000
+145,2021,May,26,United States,0.15,300250
+146,2021,May,27,United States,0.05,286750
+147,2021,May,28,United States,0,313000
+148,2021,May,29,United States,0.1,298500
+149,2021,May,30,United States,0.05,264750
+150,2021,May,31,United States,0.1,290500
+151,2021,June,1,United States,0.05,97750
+152,2021,June,2,United States,0.05,123750
+153,2021,June,3,United States,0.1,109500
+154,2021,June,4,United States,0,176000
+155,2021,June,5,United States,0.15,141250
+156,2021,June,6,United States,0.2,127000
+157,2021,June,7,United States,0,134000
+158,2021,June,8,United States,0.2,179000
+159,2021,June,9,United States,0,186000
+160,2021,June,10,United States,0.2,151000
+161,2021,June,11,United States,0.1,217500
+162,2021,June,12,United States,0.1,203500
+163,2021,June,13,United States,0.15,169250
+164,2021,June,14,United States,0,196000
+165,2021,June,15,United States,0,242000
+166,2021,June,16,United States,0,188000
+167,2021,June,17,United States,0.05,193750
+168,2021,June,18,United States,0.05,199750
+169,2021,June,19,United States,0,206000
+170,2021,June,20,United States,0,232000
+171,2021,June,21,United States,0.05,217750
+172,2021,June,22,United States,0.1,263500
+173,2021,June,23,United States,0.05,269750
+174,2021,June,24,United States,0.1,235500
+175,2021,June,25,United States,0.05,301750
+176,2021,June,26,United States,0.1,267500
+177,2021,June,27,United States,0,274000
+178,2021,June,28,United States,0.15,259250
+179,2021,June,29,United States,0.2,265000
+180,2021,June,30,United States,0,272000
+181,2021,July,1,United States,0.1,144500
+182,2021,July,2,United States,0,171000
+183,2021,July,3,United States,0,137000
+184,2021,July,4,United States,0,123000
+185,2021,July,5,United States,0,129000
+186,2021,July,6,United States,0,135000
+187,2021,July,7,United States,0,141000
+188,2021,July,8,United States,0,207000
+189,2021,July,9,United States,0.05,212750
+190,2021,July,10,United States,0.15,158250
+191,2021,July,11,United States,0.05,204750
+192,2021,July,12,United States,0.1,190500
+193,2021,July,13,United States,0.05,176750
+194,2021,July,14,United States,0,243000
+195,2021,July,15,United States,0.15,188250
+196,2021,July,16,United States,0.1,254500
+197,2021,July,17,United States,0.1,220500
+198,2021,July,18,United States,0.1,226500
+199,2021,July,19,United States,0,233000
+200,2021,July,20,United States,0.2,278000
+201,2021,July,21,United States,0.1,264500
+202,2021,July,22,United States,0,231000
+203,2021,July,23,United States,0,297000
+204,2021,July,24,United States,0.05,242750
+205,2021,July,25,United States,0.1,248500
+206,2021,July,26,United States,0.05,314750
+207,2021,July,27,United States,0,281000
+208,2021,July,28,United States,0.1,326500
+209,2021,July,29,United States,0.1,292500
+210,2021,July,30,United States,0,279000
+211,2021,July,31,United States,0.05,344750
+212,2021,August,1,United States,0,152000
+213,2021,August,2,United States,0.1,117500
+214,2021,August,3,United States,0.05,163750
+215,2021,August,4,United States,0,130000
+216,2021,August,5,United States,0.05,195750
+217,2021,August,6,United States,0,142000
+218,2021,August,7,United States,0,188000
+219,2021,August,8,United States,0,214000
+220,2021,August,9,United States,0.15,159250
+221,2021,August,10,United States,0.1,205500
+222,2021,August,11,United States,0.15,171250
+223,2021,August,12,United States,0,218000
+224,2021,August,13,United States,0,184000
+225,2021,August,14,United States,0.05,189750
+226,2021,August,15,United States,0.15,215250
+227,2021,August,16,United States,0,202000
+228,2021,August,17,United States,0.1,267500
+229,2021,August,18,United States,0,214000
+230,2021,August,19,United States,0.05,219750
+231,2021,August,20,United States,0.2,265000
+232,2021,August,21,United States,0.2,231000
+233,2021,August,22,United States,0.05,257750
+234,2021,August,23,United States,0,244000
+235,2021,August,24,United States,0,290000
+236,2021,August,25,United States,0.05,295750
+237,2021,August,26,United States,0,302000
+238,2021,August,27,United States,0.2,327000
+239,2021,August,28,United States,0.1,273500
+240,2021,August,29,United States,0.2,279000
+241,2021,August,30,United States,0,346000
+242,2021,August,31,United States,0.15,311250
+243,2021,September,1,United States,0.1,118500
+244,2021,September,2,United States,0,125000
+245,2021,September,3,United States,0.1,150500
+246,2021,September,4,United States,0.15,136250
+247,2021,September,5,United States,0,143000
+248,2021,September,6,United States,0.15,168250
+249,2021,September,7,United States,0,155000
+250,2021,September,8,United States,0.05,180750
+251,2021,September,9,United States,0.15,166250
+252,2021,September,10,United States,0,213000
+253,2021,September,11,United States,0,199000
+254,2021,September,12,United States,0.1,224500
+255,2021,September,13,United States,0,191000
+256,2021,September,14,United States,0.1,236500
+257,2021,September,15,United States,0,263000
+258,2021,September,16,United States,0.05,208750
+259,2021,September,17,United States,0.1,214500
+260,2021,September,18,United States,0.1,220500
+261,2021,September,19,United States,0.05,286750
+262,2021,September,20,United States,0,233000
+263,2021,September,21,United States,0,239000
+264,2021,September,22,United States,0.05,244750
+265,2021,September,23,United States,0,311000
+266,2021,September,24,United States,0.05,256750
+267,2021,September,25,United States,0.15,262250
+268,2021,September,26,United States,0.2,268000
+269,2021,September,27,United States,0.05,274750
+270,2021,September,28,United States,0,341000
+271,2021,September,29,United States,0.05,326750
+272,2021,September,30,United States,0.1,352500
+273,2021,October,1,United States,0.05,165750
+274,2021,October,2,United States,0,132000
+275,2021,October,3,United States,0.05,177750
+276,2021,October,4,United States,0.05,143750
+277,2021,October,5,United States,0.15,149250
+278,2021,October,6,United States,0.05,215750
+279,2021,October,7,United States,0.05,161750
+280,2021,October,8,United States,0,168000
+281,2021,October,9,United States,0,234000
+282,2021,October,10,United States,0,240000
+283,2021,October,11,United States,0,186000
+284,2021,October,12,United States,0,252000
+285,2021,October,13,United States,0.15,197250
+286,2021,October,14,United States,0,204000
+287,2021,October,15,United States,0.05,209750
+288,2021,October,16,United States,0,216000
+289,2021,October,17,United States,0,242000
+290,2021,October,18,United States,0.05,287750
+291,2021,October,19,United States,0,294000
+292,2021,October,20,United States,0.05,239750
+293,2021,October,21,United States,0,246000
+294,2021,October,22,United States,0.05,251750
+295,2021,October,23,United States,0,318000
+296,2021,October,24,United States,0,264000
+297,2021,October,25,United States,0.1,289500
+298,2021,October,26,United States,0,296000
+299,2021,October,27,United States,0.15,321250
+300,2021,October,28,United States,0.1,347500
+301,2021,October,29,United States,0,334000
+302,2021,October,30,United States,0,360000
+303,2021,October,31,United States,0.1,365500
+304,2021,November,1,United States,0.05,172750
+305,2021,November,2,United States,0.05,158750
+306,2021,November,3,United States,0.2,184000
+307,2021,November,4,United States,0,211000
+308,2021,November,5,United States,0.2,156000
+309,2021,November,6,United States,0.1,162500
+310,2021,November,7,United States,0.1,208500
+311,2021,November,8,United States,0.05,214750
+312,2021,November,9,United States,0,201000
+313,2021,November,10,United States,0,227000
+314,2021,November,11,United States,0,233000
+315,2021,November,12,United States,0.1,238500
+316,2021,November,13,United States,0.1,244500
+317,2021,November,14,United States,0.15,230250
+318,2021,November,15,United States,0,217000
+319,2021,November,16,United States,0.1,262500
+320,2021,November,17,United States,0.15,228250
+321,2021,November,18,United States,0.05,234750
+322,2021,November,19,United States,0,241000
+323,2021,November,20,United States,0,307000
+324,2021,November,21,United States,0,313000
+325,2021,November,22,United States,0.05,298750
+326,2021,November,23,United States,0.05,264750
+327,2021,November,24,United States,0.05,330750
+328,2021,November,25,United States,0.05,296750
+329,2021,November,26,United States,0.05,342750
+330,2021,November,27,United States,0.05,288750
+331,2021,November,28,United States,0.15,294250
+332,2021,November,29,United States,0,361000
+333,2021,November,30,United States,0.15,346250
+334,2021,December,1,United States,0.05,159750
+335,2021,December,2,United States,0,146000
+336,2021,December,3,United States,0,192000
+337,2021,December,4,United States,0.05,157750
+338,2021,December,5,United States,0,184000
+339,2021,December,6,United States,0,170000
+340,2021,December,7,United States,0,196000
+341,2021,December,8,United States,0.1,181500
+342,2021,December,9,United States,0.1,227500
+343,2021,December,10,United States,0,234000
+344,2021,December,11,United States,0,200000
+345,2021,December,12,United States,0.15,265250
+346,2021,December,13,United States,0,252000
+347,2021,December,14,United States,0,238000
+348,2021,December,15,United States,0.15,243250
+349,2021,December,16,United States,0.1,229500
+350,2021,December,17,United States,0.15,295250
+351,2021,December,18,United States,0.1,261500
+352,2021,December,19,United States,0.15,247250
+353,2021,December,20,United States,0.2,253000
+354,2021,December,21,United States,0.05,279750
+355,2021,December,22,United States,0,306000
+356,2021,December,23,United States,0.15,311250
+357,2021,December,24,United States,0,298000
+358,2021,December,25,United States,0.05,303750
+359,2021,December,26,United States,0,310000
+360,2021,December,27,United States,0,356000
+361,2021,December,28,United States,0.1,301500
+362,2021,December,29,United States,0.1,307500
+363,2021,December,30,United States,0.05,373750
+364,2021,December,31,United States,0.15,339250
+365,2021,January,1,Mexico,0,54000
+366,2021,January,2,Mexico,0,100000
+367,2021,January,3,Mexico,0.05,65750
+368,2021,January,4,Mexico,0.05,71750
+369,2021,January,5,Mexico,0.05,137750
+370,2021,January,6,Mexico,0.05,123750
+371,2021,January,7,Mexico,0,90000
+372,2021,January,8,Mexico,0.05,95750
+373,2021,January,9,Mexico,0.1,121500
+374,2021,January,10,Mexico,0,108000
+375,2021,January,11,Mexico,0,114000
+376,2021,January,12,Mexico,0,140000
+377,2021,January,13,Mexico,0.1,185500
+378,2021,January,14,Mexico,0,132000
+379,2021,January,15,Mexico,0,198000
+380,2021,January,16,Mexico,0.05,143750
+381,2021,January,17,Mexico,0,150000
+382,2021,January,18,Mexico,0,176000
+383,2021,January,19,Mexico,0.15,161250
+384,2021,January,20,Mexico,0.1,167500
+385,2021,January,21,Mexico,0.1,173500
+386,2021,January,22,Mexico,0,180000
+387,2021,January,23,Mexico,0.05,245750
+388,2021,January,24,Mexico,0.2,191000
+389,2021,January,25,Mexico,0,198000
+390,2021,January,26,Mexico,0.05,223750
+391,2021,January,27,Mexico,0,210000
+392,2021,January,28,Mexico,0.2,255000
+393,2021,January,29,Mexico,0,242000
+394,2021,January,30,Mexico,0.05,247750
+395,2021,January,31,Mexico,0,254000
+396,2021,February,1,Mexico,0.05,60750
+397,2021,February,2,Mexico,0,87000
+398,2021,February,3,Mexico,0.05,72750
+399,2021,February,4,Mexico,0,79000
+400,2021,February,5,Mexico,0,125000
+401,2021,February,6,Mexico,0,91000
+402,2021,February,7,Mexico,0.05,116750
+403,2021,February,8,Mexico,0,123000
+404,2021,February,9,Mexico,0.1,108500
+405,2021,February,10,Mexico,0.2,174000
+406,2021,February,11,Mexico,0.05,120750
+407,2021,February,12,Mexico,0,127000
+408,2021,February,13,Mexico,0.05,172750
+409,2021,February,14,Mexico,0.05,178750
+410,2021,February,15,Mexico,0,205000
+411,2021,February,16,Mexico,0,211000
+412,2021,February,17,Mexico,0.1,156500
+413,2021,February,18,Mexico,0.1,222500
+414,2021,February,19,Mexico,0.15,168250
+415,2021,February,20,Mexico,0.05,234750
+416,2021,February,21,Mexico,0.05,180750
+417,2021,February,22,Mexico,0.15,186250
+418,2021,February,23,Mexico,0,233000
+419,2021,February,24,Mexico,0.2,238000
+420,2021,February,25,Mexico,0,205000
+421,2021,February,26,Mexico,0.05,210750
+422,2021,February,27,Mexico,0,257000
+423,2021,February,28,Mexico,0.1,282500
+424,2021,March,1,Mexico,0,128000
+425,2021,March,2,Mexico,0.1,73500
+426,2021,March,3,Mexico,0.2,79000
+427,2021,March,4,Mexico,0.05,85750
+428,2021,March,5,Mexico,0.2,131000
+429,2021,March,6,Mexico,0.1,97500
+430,2021,March,7,Mexico,0,144000
+431,2021,March,8,Mexico,0,130000
+432,2021,March,9,Mexico,0.05,115750
+433,2021,March,10,Mexico,0.05,141750
+434,2021,March,11,Mexico,0.05,127750
+435,2021,March,12,Mexico,0.15,133250
+436,2021,March,13,Mexico,0,200000
+437,2021,March,14,Mexico,0.1,145500
+438,2021,March,15,Mexico,0.05,171750
+439,2021,March,16,Mexico,0.15,197250
+440,2021,March,17,Mexico,0.1,183500
+441,2021,March,18,Mexico,0.1,229500
+442,2021,March,19,Mexico,0.2,235000
+443,2021,March,20,Mexico,0,222000
+444,2021,March,21,Mexico,0.15,247250
+445,2021,March,22,Mexico,0.1,213500
+446,2021,March,23,Mexico,0,260000
+447,2021,March,24,Mexico,0,206000
+448,2021,March,25,Mexico,0,252000
+449,2021,March,26,Mexico,0,258000
+450,2021,March,27,Mexico,0.2,283000
+451,2021,March,28,Mexico,0.05,269750
+452,2021,March,29,Mexico,0.1,275500
+453,2021,March,30,Mexico,0.05,241750
+454,2021,March,31,Mexico,0,288000
+455,2021,April,1,Mexico,0.2,114000
+456,2021,April,2,Mexico,0.1,100500
+457,2021,April,3,Mexico,0.1,126500
+458,2021,April,4,Mexico,0,133000
+459,2021,April,5,Mexico,0,119000
+460,2021,April,6,Mexico,0.2,104000
+461,2021,April,7,Mexico,0,151000
+462,2021,April,8,Mexico,0.05,156750
+463,2021,April,9,Mexico,0.05,162750
+464,2021,April,10,Mexico,0,149000
+465,2021,April,11,Mexico,0.15,194250
+466,2021,April,12,Mexico,0.05,140750
+467,2021,April,13,Mexico,0.1,206500
+468,2021,April,14,Mexico,0,173000
+469,2021,April,15,Mexico,0,219000
+470,2021,April,16,Mexico,0.2,164000
+471,2021,April,17,Mexico,0,191000
+472,2021,April,18,Mexico,0.1,176500
+473,2021,April,19,Mexico,0,223000
+474,2021,April,20,Mexico,0,209000
+475,2021,April,21,Mexico,0,215000
+476,2021,April,22,Mexico,0.1,200500
+477,2021,April,23,Mexico,0.05,226750
+478,2021,April,24,Mexico,0,273000
+479,2021,April,25,Mexico,0.05,218750
+480,2021,April,26,Mexico,0,225000
+481,2021,April,27,Mexico,0.1,250500
+482,2021,April,28,Mexico,0.2,236000
+483,2021,April,29,Mexico,0,263000
+484,2021,April,30,Mexico,0,249000
+485,2021,May,1,Mexico,0.05,141750
+486,2021,May,2,Mexico,0.1,87500
+487,2021,May,3,Mexico,0,94000
+488,2021,May,4,Mexico,0,100000
+489,2021,May,5,Mexico,0.1,165500
+490,2021,May,6,Mexico,0,172000
+491,2021,May,7,Mexico,0,118000
+492,2021,May,8,Mexico,0,124000
+493,2021,May,9,Mexico,0,170000
+494,2021,May,10,Mexico,0,156000
+495,2021,May,11,Mexico,0.1,181500
+496,2021,May,12,Mexico,0,188000
+497,2021,May,13,Mexico,0,154000
+498,2021,May,14,Mexico,0,220000
+499,2021,May,15,Mexico,0.1,165500
+500,2021,May,16,Mexico,0.15,211250
+501,2021,May,17,Mexico,0,178000
+502,2021,May,18,Mexico,0,184000
+503,2021,May,19,Mexico,0.15,189250
+504,2021,May,20,Mexico,0,196000
+505,2021,May,21,Mexico,0,222000
+506,2021,May,22,Mexico,0.1,207500
+507,2021,May,23,Mexico,0.05,233750
+508,2021,May,24,Mexico,0.1,219500
+509,2021,May,25,Mexico,0.05,245750
+510,2021,May,26,Mexico,0,232000
+511,2021,May,27,Mexico,0.05,277750
+512,2021,May,28,Mexico,0,244000
+513,2021,May,29,Mexico,0,310000
+514,2021,May,30,Mexico,0,316000
+515,2021,May,31,Mexico,0.1,261500
+516,2021,June,1,Mexico,0.1,88500
+517,2021,June,2,Mexico,0,95000
+518,2021,June,3,Mexico,0.05,100750
+519,2021,June,4,Mexico,0.1,106500
+520,2021,June,5,Mexico,0.05,112750
+521,2021,June,6,Mexico,0.05,138750
+522,2021,June,7,Mexico,0.05,144750
+523,2021,June,8,Mexico,0,191000
+524,2021,June,9,Mexico,0,137000
+525,2021,June,10,Mexico,0.15,142250
+526,2021,June,11,Mexico,0,169000
+527,2021,June,12,Mexico,0.05,154750
+528,2021,June,13,Mexico,0.2,160000
+529,2021,June,14,Mexico,0.1,166500
+530,2021,June,15,Mexico,0.2,232000
+531,2021,June,16,Mexico,0,239000
+532,2021,June,17,Mexico,0.1,224500
+533,2021,June,18,Mexico,0.05,250750
+534,2021,June,19,Mexico,0.05,256750
+535,2021,June,20,Mexico,0,223000
+536,2021,June,21,Mexico,0.05,208750
+537,2021,June,22,Mexico,0,275000
+538,2021,June,23,Mexico,0,281000
+539,2021,June,24,Mexico,0,287000
+540,2021,June,25,Mexico,0.1,232500
+541,2021,June,26,Mexico,0,259000
+542,2021,June,27,Mexico,0,305000
+543,2021,June,28,Mexico,0.2,270000
+544,2021,June,29,Mexico,0.2,296000
+545,2021,June,30,Mexico,0,303000
+546,2021,July,1,Mexico,0,156000
+547,2021,July,2,Mexico,0.15,161250
+548,2021,July,3,Mexico,0,148000
+549,2021,July,4,Mexico,0,154000
+550,2021,July,5,Mexico,0.1,139500
+551,2021,July,6,Mexico,0,186000
+552,2021,July,7,Mexico,0.15,191250
+553,2021,July,8,Mexico,0,158000
+554,2021,July,9,Mexico,0.2,203000
+555,2021,July,10,Mexico,0,210000
+556,2021,July,11,Mexico,0,156000
+557,2021,July,12,Mexico,0,202000
+558,2021,July,13,Mexico,0.05,167750
+559,2021,July,14,Mexico,0.1,193500
+560,2021,July,15,Mexico,0.1,239500
+561,2021,July,16,Mexico,0.05,185750
+562,2021,July,17,Mexico,0.1,231500
+563,2021,July,18,Mexico,0.2,197000
+564,2021,July,19,Mexico,0.05,263750
+565,2021,July,20,Mexico,0.15,209250
+566,2021,July,21,Mexico,0.1,275500
+567,2021,July,22,Mexico,0,242000
+568,2021,July,23,Mexico,0.05,227750
+569,2021,July,24,Mexico,0.05,233750
+570,2021,July,25,Mexico,0,300000
+571,2021,July,26,Mexico,0.05,285750
+572,2021,July,27,Mexico,0.15,271250
+573,2021,July,28,Mexico,0,318000
+574,2021,July,29,Mexico,0.05,303750
+575,2021,July,30,Mexico,0,270000
+576,2021,July,31,Mexico,0.15,315250
+577,2021,August,1,Mexico,0.05,142750
+578,2021,August,2,Mexico,0.15,168250
+579,2021,August,3,Mexico,0.1,134500
+580,2021,August,4,Mexico,0.1,180500
+581,2021,August,5,Mexico,0.05,186750
+582,2021,August,6,Mexico,0,133000
+583,2021,August,7,Mexico,0,159000
+584,2021,August,8,Mexico,0.05,164750
+585,2021,August,9,Mexico,0.1,150500
+586,2021,August,10,Mexico,0.05,216750
+587,2021,August,11,Mexico,0.05,202750
+588,2021,August,12,Mexico,0.1,168500
+589,2021,August,13,Mexico,0.1,194500
+590,2021,August,14,Mexico,0,201000
+591,2021,August,15,Mexico,0.1,186500
+592,2021,August,16,Mexico,0,193000
+593,2021,August,17,Mexico,0.05,238750
+594,2021,August,18,Mexico,0.1,224500
+595,2021,August,19,Mexico,0,231000
+596,2021,August,20,Mexico,0,257000
+597,2021,August,21,Mexico,0.05,222750
+598,2021,August,22,Mexico,0.05,248750
+599,2021,August,23,Mexico,0.05,274750
+600,2021,August,24,Mexico,0,301000
+601,2021,August,25,Mexico,0.1,306500
+602,2021,August,26,Mexico,0,253000
+603,2021,August,27,Mexico,0,259000
+604,2021,August,28,Mexico,0.05,264750
+605,2021,August,29,Mexico,0.1,310500
+606,2021,August,30,Mexico,0,297000
+607,2021,August,31,Mexico,0.1,282500
+608,2021,September,1,Mexico,0,150000
+609,2021,September,2,Mexico,0,156000
+610,2021,September,3,Mexico,0,122000
+611,2021,September,4,Mexico,0.15,167250
+612,2021,September,5,Mexico,0,194000
+613,2021,September,6,Mexico,0,160000
+614,2021,September,7,Mexico,0,206000
+615,2021,September,8,Mexico,0,152000
+616,2021,September,9,Mexico,0.05,157750
+617,2021,September,10,Mexico,0.15,203250
+618,2021,September,11,Mexico,0.1,169500
+619,2021,September,12,Mexico,0,176000
+620,2021,September,13,Mexico,0.05,221750
+621,2021,September,14,Mexico,0,248000
+622,2021,September,15,Mexico,0,194000
+623,2021,September,16,Mexico,0.05,199750
+624,2021,September,17,Mexico,0,206000
+625,2021,September,18,Mexico,0.05,211750
+626,2021,September,19,Mexico,0.15,257250
+627,2021,September,20,Mexico,0,264000
+628,2021,September,21,Mexico,0.2,229000
+629,2021,September,22,Mexico,0,236000
+630,2021,September,23,Mexico,0.1,261500
+631,2021,September,24,Mexico,0,248000
+632,2021,September,25,Mexico,0,254000
+633,2021,September,26,Mexico,0.1,319500
+634,2021,September,27,Mexico,0.2,265000
+635,2021,September,28,Mexico,0,312000
+636,2021,September,29,Mexico,0.1,337500
+637,2021,September,30,Mexico,0,344000
+638,2021,October,1,Mexico,0.15,156250
+639,2021,October,2,Mexico,0.05,122750
+640,2021,October,3,Mexico,0,149000
+641,2021,October,4,Mexico,0.2,134000
+642,2021,October,5,Mexico,0,201000
+643,2021,October,6,Mexico,0.05,186750
+644,2021,October,7,Mexico,0.1,172500
+645,2021,October,8,Mexico,0,219000
+646,2021,October,9,Mexico,0.1,204500
+647,2021,October,10,Mexico,0,211000
+648,2021,October,11,Mexico,0,217000
+649,2021,October,12,Mexico,0,243000
+650,2021,October,13,Mexico,0.2,228000
+651,2021,October,14,Mexico,0.15,194250
+652,2021,October,15,Mexico,0,201000
+653,2021,October,16,Mexico,0,207000
+654,2021,October,17,Mexico,0,273000
+655,2021,October,18,Mexico,0.1,258500
+656,2021,October,19,Mexico,0,225000
+657,2021,October,20,Mexico,0.05,250750
+658,2021,October,21,Mexico,0.1,256500
+659,2021,October,22,Mexico,0,243000
+660,2021,October,23,Mexico,0.1,288500
+661,2021,October,24,Mexico,0,295000
+662,2021,October,25,Mexico,0.2,280000
+663,2021,October,26,Mexico,0,267000
+664,2021,October,27,Mexico,0,273000
+665,2021,October,28,Mexico,0.1,278500
+666,2021,October,29,Mexico,0.15,324250
+667,2021,October,30,Mexico,0,311000
+668,2021,October,31,Mexico,0,297000
+669,2021,November,1,Mexico,0.2,163000
+670,2021,November,2,Mexico,0,130000
+671,2021,November,3,Mexico,0.15,155250
+672,2021,November,4,Mexico,0.15,141250
+673,2021,November,5,Mexico,0.1,167500
+674,2021,November,6,Mexico,0.1,193500
+675,2021,November,7,Mexico,0.1,159500
+676,2021,November,8,Mexico,0.1,205500
+677,2021,November,9,Mexico,0,172000
+678,2021,November,10,Mexico,0.1,197500
+679,2021,November,11,Mexico,0.05,183750
+680,2021,November,12,Mexico,0.05,189750
+681,2021,November,13,Mexico,0.1,235500
+682,2021,November,14,Mexico,0,202000
+683,2021,November,15,Mexico,0.05,207750
+684,2021,November,16,Mexico,0,214000
+685,2021,November,17,Mexico,0,240000
+686,2021,November,18,Mexico,0,266000
+687,2021,November,19,Mexico,0.05,271750
+688,2021,November,20,Mexico,0.15,277250
+689,2021,November,21,Mexico,0,244000
+690,2021,November,22,Mexico,0,290000
+691,2021,November,23,Mexico,0.1,295500
+692,2021,November,24,Mexico,0.05,261750
+693,2021,November,25,Mexico,0.05,327750
+694,2021,November,26,Mexico,0,294000
+695,2021,November,27,Mexico,0.05,339750
+696,2021,November,28,Mexico,0.1,325500
+697,2021,November,29,Mexico,0.05,311750
+698,2021,November,30,Mexico,0.1,337500
+699,2021,December,1,Mexico,0.1,130500
+700,2021,December,2,Mexico,0,177000
+701,2021,December,3,Mexico,0,143000
+702,2021,December,4,Mexico,0.05,148750
+703,2021,December,5,Mexico,0,215000
+704,2021,December,6,Mexico,0.15,160250
+705,2021,December,7,Mexico,0,187000
+706,2021,December,8,Mexico,0.1,172500
+707,2021,December,9,Mexico,0,179000
+708,2021,December,10,Mexico,0.15,204250
+709,2021,December,11,Mexico,0.15,190250
+710,2021,December,12,Mexico,0,217000
+711,2021,December,13,Mexico,0,203000
+712,2021,December,14,Mexico,0,269000
+713,2021,December,15,Mexico,0,255000
+714,2021,December,16,Mexico,0.1,280500
+715,2021,December,17,Mexico,0.05,246750
+716,2021,December,18,Mexico,0.1,232500
+717,2021,December,19,Mexico,0.2,298000
+718,2021,December,20,Mexico,0,265000
+719,2021,December,21,Mexico,0.2,250000
+720,2021,December,22,Mexico,0.15,276250
+721,2021,December,23,Mexico,0.05,262750
+722,2021,December,24,Mexico,0.1,268500
+723,2021,December,25,Mexico,0.15,334250
+724,2021,December,26,Mexico,0.05,300750
+725,2021,December,27,Mexico,0.05,346750
+726,2021,December,28,Mexico,0.05,292750
+727,2021,December,29,Mexico,0,359000
+728,2021,December,30,Mexico,0.1,344500
+729,2021,December,31,Mexico,0.15,310250
+730,2021,January,1,Canada,0.1,64500
+731,2021,January,2,Canada,0,111000
+732,2021,January,3,Canada,0,77000
+733,2021,January,4,Canada,0.05,102750
+734,2021,January,5,Canada,0.05,88750
+735,2021,January,6,Canada,0.05,74750
+736,2021,January,7,Canada,0.15,80250
+737,2021,January,8,Canada,0.15,106250
+738,2021,January,9,Canada,0.15,92250
+739,2021,January,10,Canada,0,139000
+740,2021,January,11,Canada,0,125000
+741,2021,January,12,Canada,0.15,110250
+742,2021,January,13,Canada,0.15,176250
+743,2021,January,14,Canada,0.1,182500
+744,2021,January,15,Canada,0,189000
+745,2021,January,16,Canada,0.05,194750
+746,2021,January,17,Canada,0.2,140000
+747,2021,January,18,Canada,0.1,206500
+748,2021,January,19,Canada,0,153000
+749,2021,January,20,Canada,0.15,198250
+750,2021,January,21,Canada,0.15,164250
+751,2021,January,22,Canada,0.05,190750
+752,2021,January,23,Canada,0.1,176500
+753,2021,January,24,Canada,0,183000
+754,2021,January,25,Canada,0.15,208250
+755,2021,January,26,Canada,0.2,194000
+756,2021,January,27,Canada,0.05,200750
+757,2021,January,28,Canada,0.1,206500
+758,2021,January,29,Canada,0.1,252500
+759,2021,January,30,Canada,0.05,278750
+760,2021,January,31,Canada,0.1,264500
+761,2021,February,1,Canada,0,92000
+762,2021,February,2,Canada,0.15,97250
+763,2021,February,3,Canada,0,84000
+764,2021,February,4,Canada,0,110000
+765,2021,February,5,Canada,0.05,75750
+766,2021,February,6,Canada,0,122000
+767,2021,February,7,Canada,0,88000
+768,2021,February,8,Canada,0.1,93500
+769,2021,February,9,Canada,0,100000
+770,2021,February,10,Canada,0,106000
+771,2021,February,11,Canada,0.05,131750
+772,2021,February,12,Canada,0.1,117500
+773,2021,February,13,Canada,0.05,143750
+774,2021,February,14,Canada,0,130000
+775,2021,February,15,Canada,0,136000
+776,2021,February,16,Canada,0,142000
+777,2021,February,17,Canada,0,148000
+778,2021,February,18,Canada,0.1,153500
+779,2021,February,19,Canada,0.05,159750
+780,2021,February,20,Canada,0,166000
+781,2021,February,21,Canada,0,172000
+782,2021,February,22,Canada,0.1,177500
+783,2021,February,23,Canada,0,224000
+784,2021,February,24,Canada,0,190000
+785,2021,February,25,Canada,0.1,255500
+786,2021,February,26,Canada,0,262000
+787,2021,February,27,Canada,0.2,207000
+788,2021,February,28,Canada,0.2,273000
+789,2021,March,1,Canada,0.1,58500
+790,2021,March,2,Canada,0,125000
+791,2021,March,3,Canada,0,71000
+792,2021,March,4,Canada,0.05,96750
+793,2021,March,5,Canada,0,123000
+794,2021,March,6,Canada,0,109000
+795,2021,March,7,Canada,0.05,94750
+796,2021,March,8,Canada,0.1,100500
+797,2021,March,9,Canada,0,127000
+798,2021,March,10,Canada,0,153000
+799,2021,March,11,Canada,0.1,118500
+800,2021,March,12,Canada,0,165000
+801,2021,March,13,Canada,0.1,150500
+802,2021,March,14,Canada,0,157000
+803,2021,March,15,Canada,0,203000
+804,2021,March,16,Canada,0.05,168750
+805,2021,March,17,Canada,0.1,154500
+806,2021,March,18,Canada,0.1,200500
+807,2021,March,19,Canada,0.05,166750
+808,2021,March,20,Canada,0.05,192750
+809,2021,March,21,Canada,0.05,238750
+810,2021,March,22,Canada,0.15,244250
+811,2021,March,23,Canada,0.15,230250
+812,2021,March,24,Canada,0,197000
+813,2021,March,25,Canada,0.15,202250
+814,2021,March,26,Canada,0.15,208250
+815,2021,March,27,Canada,0.1,254500
+816,2021,March,28,Canada,0,241000
+817,2021,March,29,Canada,0.2,226000
+818,2021,March,30,Canada,0,233000
+819,2021,March,31,Canada,0.05,238750
+820,2021,April,1,Canada,0.1,65500
+821,2021,April,2,Canada,0,72000
+822,2021,April,3,Canada,0.05,77750
+823,2021,April,4,Canada,0.1,83500
+824,2021,April,5,Canada,0,150000
+825,2021,April,6,Canada,0.1,95500
+826,2021,April,7,Canada,0.05,141750
+827,2021,April,8,Canada,0.05,127750
+828,2021,April,9,Canada,0.05,113750
+829,2021,April,10,Canada,0,180000
+830,2021,April,11,Canada,0,166000
+831,2021,April,12,Canada,0.05,191750
+832,2021,April,13,Canada,0.1,137500
+833,2021,April,14,Canada,0.2,163000
+834,2021,April,15,Canada,0.15,149250
+835,2021,April,16,Canada,0.2,175000
+836,2021,April,17,Canada,0,202000
+837,2021,April,18,Canada,0.05,187750
+838,2021,April,19,Canada,0.05,213750
+839,2021,April,20,Canada,0.05,179750
+840,2021,April,21,Canada,0.15,185250
+841,2021,April,22,Canada,0,192000
+842,2021,April,23,Canada,0.15,217250
+843,2021,April,24,Canada,0,204000
+844,2021,April,25,Canada,0,270000
+845,2021,April,26,Canada,0.05,255750
+846,2021,April,27,Canada,0.05,221750
+847,2021,April,28,Canada,0,268000
+848,2021,April,29,Canada,0.1,233500
+849,2021,April,30,Canada,0,240000
+850,2021,May,1,Canada,0.15,72250
+851,2021,May,2,Canada,0.1,118500
+852,2021,May,3,Canada,0.05,104750
+853,2021,May,4,Canada,0.05,110750
+854,2021,May,5,Canada,0,157000
+855,2021,May,6,Canada,0.05,122750
+856,2021,May,7,Canada,0,109000
+857,2021,May,8,Canada,0,175000
+858,2021,May,9,Canada,0.15,120250
+859,2021,May,10,Canada,0.15,126250
+860,2021,May,11,Canada,0,133000
+861,2021,May,12,Canada,0,139000
+862,2021,May,13,Canada,0.2,144000
+863,2021,May,14,Canada,0,191000
+864,2021,May,15,Canada,0,177000
+865,2021,May,16,Canada,0,223000
+866,2021,May,17,Canada,0.1,208500
+867,2021,May,18,Canada,0.15,174250
+868,2021,May,19,Canada,0.2,180000
+869,2021,May,20,Canada,0.1,186500
+870,2021,May,21,Canada,0.15,252250
+871,2021,May,22,Canada,0.2,198000
+872,2021,May,23,Canada,0.05,264750
+873,2021,May,24,Canada,0,271000
+874,2021,May,25,Canada,0.1,216500
+875,2021,May,26,Canada,0,223000
+876,2021,May,27,Canada,0.05,248750
+877,2021,May,28,Canada,0.05,274750
+878,2021,May,29,Canada,0,301000
+879,2021,May,30,Canada,0,267000
+880,2021,May,31,Canada,0,313000
+881,2021,June,1,Canada,0.05,119750
+882,2021,June,2,Canada,0,126000
+883,2021,June,3,Canada,0.15,91250
+884,2021,June,4,Canada,0,98000
+885,2021,June,5,Canada,0.15,103250
+886,2021,June,6,Canada,0.15,169250
+887,2021,June,7,Canada,0,176000
+888,2021,June,8,Canada,0.05,141750
+889,2021,June,9,Canada,0.05,187750
+890,2021,June,10,Canada,0.1,153500
+891,2021,June,11,Canada,0,180000
+892,2021,June,12,Canada,0.1,165500
+893,2021,June,13,Canada,0,192000
+894,2021,June,14,Canada,0.15,157250
+895,2021,June,15,Canada,0,204000
+896,2021,June,16,Canada,0.15,169250
+897,2021,June,17,Canada,0,176000
+898,2021,June,18,Canada,0,182000
+899,2021,June,19,Canada,0.05,247750
+900,2021,June,20,Canada,0.05,213750
+901,2021,June,21,Canada,0.15,239250
+902,2021,June,22,Canada,0,206000
+903,2021,June,23,Canada,0,212000
+904,2021,June,24,Canada,0.1,257500
+905,2021,June,25,Canada,0.05,223750
+906,2021,June,26,Canada,0,250000
+907,2021,June,27,Canada,0,256000
+908,2021,June,28,Canada,0.05,241750
+909,2021,June,29,Canada,0.05,247750
+910,2021,June,30,Canada,0.05,273750
+911,2021,July,1,Canada,0.15,86250
+912,2021,July,2,Canada,0.15,92250
+913,2021,July,3,Canada,0.05,98750
+914,2021,July,4,Canada,0.05,164750
+915,2021,July,5,Canada,0.1,110500
+916,2021,July,6,Canada,0.1,176500
+917,2021,July,7,Canada,0.1,162500
+918,2021,July,8,Canada,0.1,128500
+919,2021,July,9,Canada,0.15,194250
+920,2021,July,10,Canada,0,201000
+921,2021,July,11,Canada,0.05,206750
+922,2021,July,12,Canada,0.05,212750
+923,2021,July,13,Canada,0.2,158000
+924,2021,July,14,Canada,0.15,164250
+925,2021,July,15,Canada,0.2,190000
+926,2021,July,16,Canada,0.05,196750
+927,2021,July,17,Canada,0.05,182750
+928,2021,July,18,Canada,0,189000
+929,2021,July,19,Canada,0,195000
+930,2021,July,20,Canada,0.05,200750
+931,2021,July,21,Canada,0.05,226750
+932,2021,July,22,Canada,0.2,212000
+933,2021,July,23,Canada,0.1,278500
+934,2021,July,24,Canada,0.05,224750
+935,2021,July,25,Canada,0.05,290750
+936,2021,July,26,Canada,0.1,236500
+937,2021,July,27,Canada,0.05,302750
+938,2021,July,28,Canada,0,269000
+939,2021,July,29,Canada,0.1,254500
+940,2021,July,30,Canada,0,261000
+941,2021,July,31,Canada,0,267000
+942,2021,August,1,Canada,0.05,93750
+943,2021,August,2,Canada,0,100000
+944,2021,August,3,Canada,0.1,105500
+945,2021,August,4,Canada,0.1,171500
+946,2021,August,5,Canada,0.05,177750
+947,2021,August,6,Canada,0,184000
+948,2021,August,7,Canada,0.05,129750
+949,2021,August,8,Canada,0.1,155500
+950,2021,August,9,Canada,0,142000
+951,2021,August,10,Canada,0.05,207750
+952,2021,August,11,Canada,0.05,173750
+953,2021,August,12,Canada,0,160000
+954,2021,August,13,Canada,0,166000
+955,2021,August,14,Canada,0.15,211250
+956,2021,August,15,Canada,0.1,237500
+957,2021,August,16,Canada,0,184000
+958,2021,August,17,Canada,0,250000
+959,2021,August,18,Canada,0.05,255750
+960,2021,August,19,Canada,0,262000
+961,2021,August,20,Canada,0.05,207750
+962,2021,August,21,Canada,0,214000
+963,2021,August,22,Canada,0,280000
+964,2021,August,23,Canada,0.05,285750
+965,2021,August,24,Canada,0,232000
+966,2021,August,25,Canada,0.15,237250
+967,2021,August,26,Canada,0.1,283500
+968,2021,August,27,Canada,0,250000
+969,2021,August,28,Canada,0,316000
+970,2021,August,29,Canada,0,282000
+971,2021,August,30,Canada,0.05,267750
+972,2021,August,31,Canada,0,274000
+973,2021,September,1,Canada,0,141000
+974,2021,September,2,Canada,0.15,146250
+975,2021,September,3,Canada,0.05,152750
+976,2021,September,4,Canada,0,119000
+977,2021,September,5,Canada,0,125000
+978,2021,September,6,Canada,0,131000
+979,2021,September,7,Canada,0.05,176750
+980,2021,September,8,Canada,0,203000
+981,2021,September,9,Canada,0.1,148500
+982,2021,September,10,Canada,0.15,174250
+983,2021,September,11,Canada,0,161000
+984,2021,September,12,Canada,0.05,226750
+985,2021,September,13,Canada,0,173000
+986,2021,September,14,Canada,0,219000
+987,2021,September,15,Canada,0.1,184500
+988,2021,September,16,Canada,0.1,190500
+989,2021,September,17,Canada,0.15,216250
+990,2021,September,18,Canada,0.1,222500
+991,2021,September,19,Canada,0,209000
+992,2021,September,20,Canada,0.1,274500
+993,2021,September,21,Canada,0,261000
+994,2021,September,22,Canada,0.05,266750
+995,2021,September,23,Canada,0,253000
+996,2021,September,24,Canada,0.05,258750
+997,2021,September,25,Canada,0,265000
+998,2021,September,26,Canada,0.2,250000
+999,2021,September,27,Canada,0.15,256250
+1000,2021,September,28,Canada,0.1,262500
+1001,2021,September,29,Canada,0.1,288500
+1002,2021,September,30,Canada,0,295000
+1003,2021,October,1,Canada,0,108000
+1004,2021,October,2,Canada,0.1,133500
+1005,2021,October,3,Canada,0.15,119250
+1006,2021,October,4,Canada,0.05,125750
+1007,2021,October,5,Canada,0.15,131250
+1008,2021,October,6,Canada,0,138000
+1009,2021,October,7,Canada,0.05,183750
+1010,2021,October,8,Canada,0.1,169500
+1011,2021,October,9,Canada,0,196000
+1012,2021,October,10,Canada,0.15,201250
+1013,2021,October,11,Canada,0,168000
+1014,2021,October,12,Canada,0.1,193500
+1015,2021,October,13,Canada,0.05,179750
+1016,2021,October,14,Canada,0,186000
+1017,2021,October,15,Canada,0,232000
+1018,2021,October,16,Canada,0,198000
+1019,2021,October,17,Canada,0.05,263750
+1020,2021,October,18,Canada,0.05,269750
+1021,2021,October,19,Canada,0,216000
+1022,2021,October,20,Canada,0.2,241000
+1023,2021,October,21,Canada,0,268000
+1024,2021,October,22,Canada,0,234000
+1025,2021,October,23,Canada,0,240000
+1026,2021,October,24,Canada,0,286000
+1027,2021,October,25,Canada,0.05,271750
+1028,2021,October,26,Canada,0,258000
+1029,2021,October,27,Canada,0,324000
+1030,2021,October,28,Canada,0,270000
+1031,2021,October,29,Canada,0,276000
+1032,2021,October,30,Canada,0.1,321500
+1033,2021,October,31,Canada,0.1,327500
+1034,2021,November,1,Canada,0,135000
+1035,2021,November,2,Canada,0.05,140750
+1036,2021,November,3,Canada,0.05,126750
+1037,2021,November,4,Canada,0,133000
+1038,2021,November,5,Canada,0.1,158500
+1039,2021,November,6,Canada,0.15,204250
+1040,2021,November,7,Canada,0.1,150500
+1041,2021,November,8,Canada,0,217000
+1042,2021,November,9,Canada,0,163000
+1043,2021,November,10,Canada,0,169000
+1044,2021,November,11,Canada,0.1,174500
+1045,2021,November,12,Canada,0.1,180500
+1046,2021,November,13,Canada,0.05,186750
+1047,2021,November,14,Canada,0.1,192500
+1048,2021,November,15,Canada,0.05,218750
+1049,2021,November,16,Canada,0,265000
+1050,2021,November,17,Canada,0,271000
+1051,2021,November,18,Canada,0.1,276500
+1052,2021,November,19,Canada,0.05,242750
+1053,2021,November,20,Canada,0,269000
+1054,2021,November,21,Canada,0,255000
+1055,2021,November,22,Canada,0.1,300500
+1056,2021,November,23,Canada,0.15,246250
+1057,2021,November,24,Canada,0,273000
+1058,2021,November,25,Canada,0.05,298750
+1059,2021,November,26,Canada,0.1,284500
+1060,2021,November,27,Canada,0.15,270250
+1061,2021,November,28,Canada,0.05,276750
+1062,2021,November,29,Canada,0.2,282000
+1063,2021,November,30,Canada,0.05,288750
+1064,2021,December,1,Canada,0.15,181250
+1065,2021,December,2,Canada,0.1,187500
+1066,2021,December,3,Canada,0,194000
+1067,2021,December,4,Canada,0.15,139250
+1068,2021,December,5,Canada,0.05,145750
+1069,2021,December,6,Canada,0.1,171500
+1070,2021,December,7,Canada,0.05,157750
+1071,2021,December,8,Canada,0,184000
+1072,2021,December,9,Canada,0,170000
+1073,2021,December,10,Canada,0.15,215250
+1074,2021,December,11,Canada,0.1,221500
+1075,2021,December,12,Canada,0.05,227750
+1076,2021,December,13,Canada,0,194000
+1077,2021,December,14,Canada,0,260000
+1078,2021,December,15,Canada,0.1,205500
+1079,2021,December,16,Canada,0.05,271750
+1080,2021,December,17,Canada,0,218000
+1081,2021,December,18,Canada,0.1,283500
+1082,2021,December,19,Canada,0,270000
+1083,2021,December,20,Canada,0.15,235250
+1084,2021,December,21,Canada,0,242000
+1085,2021,December,22,Canada,0.15,287250
+1086,2021,December,23,Canada,0,274000
+1087,2021,December,24,Canada,0.15,279250
+1088,2021,December,25,Canada,0,306000
+1089,2021,December,26,Canada,0.05,271750
+1090,2021,December,27,Canada,0,278000
+1091,2021,December,28,Canada,0.15,303250
+1092,2021,December,29,Canada,0.15,309250
+1093,2021,December,30,Canada,0,296000
+1094,2021,December,31,Canada,0.15,301250
+1095,2022,January,1,United States,0.15,91250
+1096,2022,January,2,United States,0,118000
+1097,2022,January,3,United States,0,84000
+1098,2022,January,4,United States,0.15,149250
+1099,2022,January,5,United States,0.1,135500
+1100,2022,January,6,United States,0.1,161500
+1101,2022,January,7,United States,0,108000
+1102,2022,January,8,United States,0.05,153750
+1103,2022,January,9,United States,0,140000
+1104,2022,January,10,United States,0,126000
+1105,2022,January,11,United States,0.15,131250
+1106,2022,January,12,United States,0,178000
+1107,2022,January,13,United States,0.2,183000
+1108,2022,January,14,United States,0,210000
+1109,2022,January,15,United States,0.05,155750
+1110,2022,January,16,United States,0,202000
+1111,2022,January,17,United States,0.05,187750
+1112,2022,January,18,United States,0.1,173500
+1113,2022,January,19,United States,0.2,179000
+1114,2022,January,20,United States,0,246000
+1115,2022,January,21,United States,0,212000
+1116,2022,January,22,United States,0,258000
+1117,2022,January,23,United States,0.1,223500
+1118,2022,January,24,United States,0,270000
+1119,2022,January,25,United States,0,216000
+1120,2022,January,26,United States,0.05,221750
+1121,2022,January,27,United States,0,228000
+1122,2022,January,28,United States,0.05,273750
+1123,2022,January,29,United States,0,240000
+1124,2022,January,30,United States,0,306000
+1125,2022,January,31,United States,0.15,251250
+1126,2022,February,1,United States,0.05,118750
+1127,2022,February,2,United States,0,105000
+1128,2022,February,3,United States,0.1,90500
+1129,2022,February,4,United States,0,157000
+1130,2022,February,5,United States,0,123000
+1131,2022,February,6,United States,0.15,128250
+1132,2022,February,7,United States,0.1,114500
+1133,2022,February,8,United States,0.1,120500
+1134,2022,February,9,United States,0.15,166250
+1135,2022,February,10,United States,0,193000
+1136,2022,February,11,United States,0,139000
+1137,2022,February,12,United States,0,145000
+1138,2022,February,13,United States,0.2,150000
+1139,2022,February,14,United States,0,217000
+1140,2022,February,15,United States,0,163000
+1141,2022,February,16,United States,0,169000
+1142,2022,February,17,United States,0.1,174500
+1143,2022,February,18,United States,0.05,240750
+1144,2022,February,19,United States,0,227000
+1145,2022,February,20,United States,0,213000
+1146,2022,February,21,United States,0,199000
+1147,2022,February,22,United States,0.05,224750
+1148,2022,February,23,United States,0.05,210750
+1149,2022,February,24,United States,0,257000
+1150,2022,February,25,United States,0.05,262750
+1151,2022,February,26,United States,0.1,288500
+1152,2022,February,27,United States,0.1,274500
+1153,2022,February,28,United States,0.05,240750
+1154,2022,March,1,United States,0.05,145750
+1155,2022,March,2,United States,0.05,131750
+1156,2022,March,3,United States,0.1,97500
+1157,2022,March,4,United States,0.15,123250
+1158,2022,March,5,United States,0.05,129750
+1159,2022,March,6,United States,0.05,115750
+1160,2022,March,7,United States,0.1,161500
+1161,2022,March,8,United States,0.1,127500
+1162,2022,March,9,United States,0.15,153250
+1163,2022,March,10,United States,0.05,139750
+1164,2022,March,11,United States,0.1,205500
+1165,2022,March,12,United States,0,212000
+1166,2022,March,13,United States,0.1,217500
+1167,2022,March,14,United States,0.1,223500
+1168,2022,March,15,United States,0,170000
+1169,2022,March,16,United States,0,196000
+1170,2022,March,17,United States,0,222000
+1171,2022,March,18,United States,0.05,187750
+1172,2022,March,19,United States,0,234000
+1173,2022,March,20,United States,0.15,199250
+1174,2022,March,21,United States,0,206000
+1175,2022,March,22,United States,0,272000
+1176,2022,March,23,United States,0.1,277500
+1177,2022,March,24,United States,0.15,223250
+1178,2022,March,25,United States,0,230000
+1179,2022,March,26,United States,0.05,255750
+1180,2022,March,27,United States,0.05,301750
+1181,2022,March,28,United States,0.05,247750
+1182,2022,March,29,United States,0,254000
+1183,2022,March,30,United States,0.15,319250
+1184,2022,March,31,United States,0.05,285750
+1185,2022,April,1,United States,0.1,132500
+1186,2022,April,2,United States,0,99000
+1187,2022,April,3,United States,0.15,104250
+1188,2022,April,4,United States,0,171000
+1189,2022,April,5,United States,0.1,136500
+1190,2022,April,6,United States,0,183000
+1191,2022,April,7,United States,0.05,128750
+1192,2022,April,8,United States,0,155000
+1193,2022,April,9,United States,0,181000
+1194,2022,April,10,United States,0,207000
+1195,2022,April,11,United States,0.1,212500
+1196,2022,April,12,United States,0.05,158750
+1197,2022,April,13,United States,0.15,164250
+1198,2022,April,14,United States,0.05,210750
+1199,2022,April,15,United States,0.05,196750
+1200,2022,April,16,United States,0.2,222000
+1201,2022,April,17,United States,0,189000
+1202,2022,April,18,United States,0,235000
+1203,2022,April,19,United States,0,201000
+1204,2022,April,20,United States,0.2,206000
+1205,2022,April,21,United States,0,233000
+1206,2022,April,22,United States,0.2,278000
+1207,2022,April,23,United States,0,245000
+1208,2022,April,24,United States,0.2,230000
+1209,2022,April,25,United States,0,237000
+1210,2022,April,26,United States,0.1,302500
+1211,2022,April,27,United States,0,249000
+1212,2022,April,28,United States,0.1,294500
+1213,2022,April,29,United States,0.1,280500
+1214,2022,April,30,United States,0,267000
+1215,2022,May,1,United States,0,100000
+1216,2022,May,2,United States,0,146000
+1217,2022,May,3,United States,0,112000
+1218,2022,May,4,United States,0.1,117500
+1219,2022,May,5,United States,0,164000
+1220,2022,May,6,United States,0.05,189750
+1221,2022,May,7,United States,0,176000
+1222,2022,May,8,United States,0,162000
+1223,2022,May,9,United States,0.05,147750
+1224,2022,May,10,United States,0.1,153500
+1225,2022,May,11,United States,0.15,159250
+1226,2022,May,12,United States,0,166000
+1227,2022,May,13,United States,0.15,191250
+1228,2022,May,14,United States,0.15,237250
+1229,2022,May,15,United States,0,224000
+1230,2022,May,16,United States,0.1,249500
+1231,2022,May,17,United States,0,196000
+1232,2022,May,18,United States,0,242000
+1233,2022,May,19,United States,0.15,207250
+1234,2022,May,20,United States,0.05,213750
+1235,2022,May,21,United States,0.1,279500
+1236,2022,May,22,United States,0,286000
+1237,2022,May,23,United States,0.05,231750
+1238,2022,May,24,United States,0,298000
+1239,2022,May,25,United States,0.15,303250
+1240,2022,May,26,United States,0,250000
+1241,2022,May,27,United States,0,276000
+1242,2022,May,28,United States,0,282000
+1243,2022,May,29,United States,0,308000
+1244,2022,May,30,United States,0,294000
+1245,2022,May,31,United States,0.05,319750
+1246,2022,June,1,United States,0,107000
+1247,2022,June,2,United States,0.05,152750
+1248,2022,June,3,United States,0,139000
+1249,2022,June,4,United States,0.1,184500
+1250,2022,June,5,United States,0.05,130750
+1251,2022,June,6,United States,0,197000
+1252,2022,June,7,United States,0,143000
+1253,2022,June,8,United States,0.15,188250
+1254,2022,June,9,United States,0,175000
+1255,2022,June,10,United States,0,161000
+1256,2022,June,11,United States,0.05,186750
+1257,2022,June,12,United States,0,193000
+1258,2022,June,13,United States,0,219000
+1259,2022,June,14,United States,0,245000
+1260,2022,June,15,United States,0,251000
+1261,2022,June,16,United States,0,257000
+1262,2022,June,17,United States,0,243000
+1263,2022,June,18,United States,0,269000
+1264,2022,June,19,United States,0,255000
+1265,2022,June,20,United States,0.1,280500
+1266,2022,June,21,United States,0.05,226750
+1267,2022,June,22,United States,0.05,272750
+1268,2022,June,23,United States,0.15,238250
+1269,2022,June,24,United States,0,265000
+1270,2022,June,25,United States,0,311000
+1271,2022,June,26,United States,0,257000
+1272,2022,June,27,United States,0.2,282000
+1273,2022,June,28,United States,0,269000
+1274,2022,June,29,United States,0,275000
+1275,2022,June,30,United States,0.05,340750
+1276,2022,July,1,United States,0.1,153500
+1277,2022,July,2,United States,0.1,119500
+1278,2022,July,3,United States,0.1,125500
+1279,2022,July,4,United States,0,152000
+1280,2022,July,5,United States,0,158000
+1281,2022,July,6,United States,0.05,143750
+1282,2022,July,7,United States,0,170000
+1283,2022,July,8,United States,0,216000
+1284,2022,July,9,United States,0.05,161750
+1285,2022,July,10,United States,0,168000
+1286,2022,July,11,United States,0.05,193750
+1287,2022,July,12,United States,0,220000
+1288,2022,July,13,United States,0.05,185750
+1289,2022,July,14,United States,0.2,231000
+1290,2022,July,15,United States,0.1,237500
+1291,2022,July,16,United States,0.1,243500
+1292,2022,July,17,United States,0.05,249750
+1293,2022,July,18,United States,0,216000
+1294,2022,July,19,United States,0,282000
+1295,2022,July,20,United States,0.05,267750
+1296,2022,July,21,United States,0.05,253750
+1297,2022,July,22,United States,0.15,239250
+1298,2022,July,23,United States,0.05,245750
+1299,2022,July,24,United States,0.05,311750
+1300,2022,July,25,United States,0,298000
+1301,2022,July,26,United States,0.1,303500
+1302,2022,July,27,United States,0,330000
+1303,2022,July,28,United States,0.15,335250
+1304,2022,July,29,United States,0.15,281250
+1305,2022,July,30,United States,0.1,287500
+1306,2022,July,31,United States,0.05,313750
+1307,2022,August,1,United States,0.05,120750
+1308,2022,August,2,United States,0.2,166000
+1309,2022,August,3,United States,0.2,172000
+1310,2022,August,4,United States,0.05,178750
+1311,2022,August,5,United States,0.05,144750
+1312,2022,August,6,United States,0.15,210250
+1313,2022,August,7,United States,0.1,156500
+1314,2022,August,8,United States,0,203000
+1315,2022,August,9,United States,0.15,208250
+1316,2022,August,10,United States,0,175000
+1317,2022,August,11,United States,0.15,180250
+1318,2022,August,12,United States,0.2,186000
+1319,2022,August,13,United States,0,193000
+1320,2022,August,14,United States,0.05,258750
+1321,2022,August,15,United States,0,205000
+1322,2022,August,16,United States,0.2,210000
+1323,2022,August,17,United States,0.05,276750
+1324,2022,August,18,United States,0.05,282750
+1325,2022,August,19,United States,0.15,228250
+1326,2022,August,20,United States,0,255000
+1327,2022,August,21,United States,0.1,280500
+1328,2022,August,22,United States,0,247000
+1329,2022,August,23,United States,0,273000
+1330,2022,August,24,United States,0.05,278750
+1331,2022,August,25,United States,0,265000
+1332,2022,August,26,United States,0.05,310750
+1333,2022,August,27,United States,0.1,276500
+1334,2022,August,28,United States,0.05,342750
+1335,2022,August,29,United States,0.05,288750
+1336,2022,August,30,United States,0,335000
+1337,2022,August,31,United States,0,301000
+1338,2022,September,1,United States,0.05,167750
+1339,2022,September,2,United States,0,154000
+1340,2022,September,3,United States,0,160000
+1341,2022,September,4,United States,0,146000
+1342,2022,September,5,United States,0,152000
+1343,2022,September,6,United States,0.05,157750
+1344,2022,September,7,United States,0.1,183500
+1345,2022,September,8,United States,0.15,209250
+1346,2022,September,9,United States,0.1,195500
+1347,2022,September,10,United States,0,202000
+1348,2022,September,11,United States,0,228000
+1349,2022,September,12,United States,0.05,253750
+1350,2022,September,13,United States,0,200000
+1351,2022,September,14,United States,0,266000
+1352,2022,September,15,United States,0.05,211750
+1353,2022,September,16,United States,0.05,257750
+1354,2022,September,17,United States,0.05,283750
+1355,2022,September,18,United States,0,230000
+1356,2022,September,19,United States,0.05,235750
+1357,2022,September,20,United States,0.05,301750
+1358,2022,September,21,United States,0.05,307750
+1359,2022,September,22,United States,0,274000
+1360,2022,September,23,United States,0,260000
+1361,2022,September,24,United States,0.1,285500
+1362,2022,September,25,United States,0.05,271750
+1363,2022,September,26,United States,0.15,297250
+1364,2022,September,27,United States,0.05,283750
+1365,2022,September,28,United States,0.1,329500
+1366,2022,September,29,United States,0.1,355500
+1367,2022,September,30,United States,0,302000
+1368,2022,October,1,United States,0.1,154500
+1369,2022,October,2,United States,0.1,140500
+1370,2022,October,3,United States,0.05,146750
+1371,2022,October,4,United States,0.15,152250
+1372,2022,October,5,United States,0.05,178750
+1373,2022,October,6,United States,0,165000
+1374,2022,October,7,United States,0.15,170250
+1375,2022,October,8,United States,0,177000
+1376,2022,October,9,United States,0.05,182750
+1377,2022,October,10,United States,0.15,188250
+1378,2022,October,11,United States,0.1,194500
+1379,2022,October,12,United States,0.2,220000
+1380,2022,October,13,United States,0,227000
+1381,2022,October,14,United States,0,233000
+1382,2022,October,15,United States,0.2,278000
+1383,2022,October,16,United States,0.15,224250
+1384,2022,October,17,United States,0.05,290750
+1385,2022,October,18,United States,0.15,276250
+1386,2022,October,19,United States,0.2,282000
+1387,2022,October,20,United States,0.05,288750
+1388,2022,October,21,United States,0,315000
+1389,2022,October,22,United States,0,281000
+1390,2022,October,23,United States,0.15,326250
+1391,2022,October,24,United States,0,273000
+1392,2022,October,25,United States,0,279000
+1393,2022,October,26,United States,0.05,344750
+1394,2022,October,27,United States,0,331000
+1395,2022,October,28,United States,0,317000
+1396,2022,October,29,United States,0.1,342500
+1397,2022,October,30,United States,0,349000
+1398,2022,October,31,United States,0.1,314500
+1399,2022,November,1,United States,0.1,161500
+1400,2022,November,2,United States,0,208000
+1401,2022,November,3,United States,0.1,193500
+1402,2022,November,4,United States,0.1,159500
+1403,2022,November,5,United States,0,166000
+1404,2022,November,6,United States,0,172000
+1405,2022,November,7,United States,0,218000
+1406,2022,November,8,United States,0.15,223250
+1407,2022,November,9,United States,0,250000
+1408,2022,November,10,United States,0,216000
+1409,2022,November,11,United States,0,202000
+1410,2022,November,12,United States,0,248000
+1411,2022,November,13,United States,0.15,273250
+1412,2022,November,14,United States,0.1,279500
+1413,2022,November,15,United States,0.1,245500
+1414,2022,November,16,United States,0,292000
+1415,2022,November,17,United States,0,258000
+1416,2022,November,18,United States,0.2,263000
+1417,2022,November,19,United States,0.1,269500
+1418,2022,November,20,United States,0.15,255250
+1419,2022,November,21,United States,0,262000
+1420,2022,November,22,United States,0.05,307750
+1421,2022,November,23,United States,0,294000
+1422,2022,November,24,United States,0.05,279750
+1423,2022,November,25,United States,0,346000
+1424,2022,November,26,United States,0,352000
+1425,2022,November,27,United States,0.05,297750
+1426,2022,November,28,United States,0.05,363750
+1427,2022,November,29,United States,0,310000
+1428,2022,November,30,United States,0.2,355000
+1429,2022,December,1,United States,0,149000
+1430,2022,December,2,United States,0.1,194500
+1431,2022,December,3,United States,0,161000
+1432,2022,December,4,United States,0,167000
+1433,2022,December,5,United States,0.05,212750
+1434,2022,December,6,United States,0,179000
+1435,2022,December,7,United States,0,205000
+1436,2022,December,8,United States,0.05,250750
+1437,2022,December,9,United States,0.05,236750
+1438,2022,December,10,United States,0,203000
+1439,2022,December,11,United States,0,229000
+1440,2022,December,12,United States,0,235000
+1441,2022,December,13,United States,0.05,220750
+1442,2022,December,14,United States,0.2,226000
+1443,2022,December,15,United States,0.05,252750
+1444,2022,December,16,United States,0.1,278500
+1445,2022,December,17,United States,0.1,244500
+1446,2022,December,18,United States,0,271000
+1447,2022,December,19,United States,0.15,256250
+1448,2022,December,20,United States,0,263000
+1449,2022,December,21,United States,0.05,268750
+1450,2022,December,22,United States,0,275000
+1451,2022,December,23,United States,0.2,280000
+1452,2022,December,24,United States,0.15,286250
+1453,2022,December,25,United States,0.05,332750
+1454,2022,December,26,United States,0.2,358000
+1455,2022,December,27,United States,0.05,344750
+1456,2022,December,28,United States,0,351000
+1457,2022,December,29,United States,0,357000
+1458,2022,December,30,United States,0,323000
+1459,2022,December,31,United States,0.05,368750
+1460,2022,January,1,Mexico,0,63000
+1461,2022,January,2,Mexico,0,109000
+1462,2022,January,3,Mexico,0.1,134500
+1463,2022,January,4,Mexico,0,101000
+1464,2022,January,5,Mexico,0.15,126250
+1465,2022,January,6,Mexico,0.1,132500
+1466,2022,January,7,Mexico,0,139000
+1467,2022,January,8,Mexico,0,165000
+1468,2022,January,9,Mexico,0.15,110250
+1469,2022,January,10,Mexico,0,117000
+1470,2022,January,11,Mexico,0.2,122000
+1471,2022,January,12,Mexico,0,189000
+1472,2022,January,13,Mexico,0.1,154500
+1473,2022,January,14,Mexico,0.1,140500
+1474,2022,January,15,Mexico,0,207000
+1475,2022,January,16,Mexico,0,193000
+1476,2022,January,17,Mexico,0,219000
+1477,2022,January,18,Mexico,0.1,204500
+1478,2022,January,19,Mexico,0.1,230500
+1479,2022,January,20,Mexico,0.05,236750
+1480,2022,January,21,Mexico,0.05,182750
+1481,2022,January,22,Mexico,0.15,228250
+1482,2022,January,23,Mexico,0.05,194750
+1483,2022,January,24,Mexico,0.15,200250
+1484,2022,January,25,Mexico,0,247000
+1485,2022,January,26,Mexico,0.05,252750
+1486,2022,January,27,Mexico,0,279000
+1487,2022,January,28,Mexico,0.2,264000
+1488,2022,January,29,Mexico,0,291000
+1489,2022,January,30,Mexico,0.15,236250
+1490,2022,January,31,Mexico,0.1,242500
+1491,2022,February,1,Mexico,0.1,129500
+1492,2022,February,2,Mexico,0.05,115750
+1493,2022,February,3,Mexico,0,82000
+1494,2022,February,4,Mexico,0,128000
+1495,2022,February,5,Mexico,0.05,153750
+1496,2022,February,6,Mexico,0,160000
+1497,2022,February,7,Mexico,0,126000
+1498,2022,February,8,Mexico,0.1,171500
+1499,2022,February,9,Mexico,0,178000
+1500,2022,February,10,Mexico,0.1,143500
+1501,2022,February,11,Mexico,0.05,169750
+1502,2022,February,12,Mexico,0,136000
+1503,2022,February,13,Mexico,0.05,181750
+1504,2022,February,14,Mexico,0,188000
+1505,2022,February,15,Mexico,0,214000
+1506,2022,February,16,Mexico,0.1,199500
+1507,2022,February,17,Mexico,0,166000
+1508,2022,February,18,Mexico,0.1,211500
+1509,2022,February,19,Mexico,0.15,197250
+1510,2022,February,20,Mexico,0.05,183750
+1511,2022,February,21,Mexico,0.05,249750
+1512,2022,February,22,Mexico,0,236000
+1513,2022,February,23,Mexico,0.15,261250
+1514,2022,February,24,Mexico,0.05,207750
+1515,2022,February,25,Mexico,0,214000
+1516,2022,February,26,Mexico,0.05,239750
+1517,2022,February,27,Mexico,0,226000
+1518,2022,February,28,Mexico,0,252000
+1519,2022,March,1,Mexico,0.1,136500
+1520,2022,March,2,Mexico,0,143000
+1521,2022,March,3,Mexico,0,129000
+1522,2022,March,4,Mexico,0.1,94500
+1523,2022,March,5,Mexico,0.1,140500
+1524,2022,March,6,Mexico,0,107000
+1525,2022,March,7,Mexico,0.05,152750
+1526,2022,March,8,Mexico,0,179000
+1527,2022,March,9,Mexico,0,125000
+1528,2022,March,10,Mexico,0.15,190250
+1529,2022,March,11,Mexico,0,197000
+1530,2022,March,12,Mexico,0.05,202750
+1531,2022,March,13,Mexico,0.05,188750
+1532,2022,March,14,Mexico,0,175000
+1533,2022,March,15,Mexico,0,201000
+1534,2022,March,16,Mexico,0,167000
+1535,2022,March,17,Mexico,0.05,172750
+1536,2022,March,18,Mexico,0.05,238750
+1537,2022,March,19,Mexico,0.05,184750
+1538,2022,March,20,Mexico,0.15,190250
+1539,2022,March,21,Mexico,0.15,236250
+1540,2022,March,22,Mexico,0.1,242500
+1541,2022,March,23,Mexico,0,229000
+1542,2022,March,24,Mexico,0.15,274250
+1543,2022,March,25,Mexico,0,221000
+1544,2022,March,26,Mexico,0.05,246750
+1545,2022,March,27,Mexico,0.05,272750
+1546,2022,March,28,Mexico,0.1,258500
+1547,2022,March,29,Mexico,0.05,284750
+1548,2022,March,30,Mexico,0.1,290500
+1549,2022,March,31,Mexico,0,317000
+1550,2022,April,1,Mexico,0.05,83750
+1551,2022,April,2,Mexico,0,90000
+1552,2022,April,3,Mexico,0,136000
+1553,2022,April,4,Mexico,0,102000
+1554,2022,April,5,Mexico,0,168000
+1555,2022,April,6,Mexico,0,114000
+1556,2022,April,7,Mexico,0.1,159500
+1557,2022,April,8,Mexico,0.1,185500
+1558,2022,April,9,Mexico,0.15,191250
+1559,2022,April,10,Mexico,0,138000
+1560,2022,April,11,Mexico,0.05,143750
+1561,2022,April,12,Mexico,0.05,189750
+1562,2022,April,13,Mexico,0,156000
+1563,2022,April,14,Mexico,0,202000
+1564,2022,April,15,Mexico,0,188000
+1565,2022,April,16,Mexico,0,174000
+1566,2022,April,17,Mexico,0.15,179250
+1567,2022,April,18,Mexico,0,186000
+1568,2022,April,19,Mexico,0.15,191250
+1569,2022,April,20,Mexico,0.15,257250
+1570,2022,April,21,Mexico,0,244000
+1571,2022,April,22,Mexico,0,270000
+1572,2022,April,23,Mexico,0,216000
+1573,2022,April,24,Mexico,0.1,261500
+1574,2022,April,25,Mexico,0.15,247250
+1575,2022,April,26,Mexico,0,294000
+1576,2022,April,27,Mexico,0.05,259750
+1577,2022,April,28,Mexico,0.05,305750
+1578,2022,April,29,Mexico,0,252000
+1579,2022,April,30,Mexico,0.05,277750
+1580,2022,May,1,Mexico,0.15,90250
+1581,2022,May,2,Mexico,0.15,96250
+1582,2022,May,3,Mexico,0,163000
+1583,2022,May,4,Mexico,0.1,108500
+1584,2022,May,5,Mexico,0.05,134750
+1585,2022,May,6,Mexico,0,161000
+1586,2022,May,7,Mexico,0.05,166750
+1587,2022,May,8,Mexico,0.15,152250
+1588,2022,May,9,Mexico,0,139000
+1589,2022,May,10,Mexico,0,205000
+1590,2022,May,11,Mexico,0,151000
+1591,2022,May,12,Mexico,0,157000
+1592,2022,May,13,Mexico,0.1,222500
+1593,2022,May,14,Mexico,0,209000
+1594,2022,May,15,Mexico,0,175000
+1595,2022,May,16,Mexico,0,181000
+1596,2022,May,17,Mexico,0,247000
+1597,2022,May,18,Mexico,0.05,232750
+1598,2022,May,19,Mexico,0,259000
+1599,2022,May,20,Mexico,0.15,204250
+1600,2022,May,21,Mexico,0,231000
+1601,2022,May,22,Mexico,0,257000
+1602,2022,May,23,Mexico,0.1,222500
+1603,2022,May,24,Mexico,0.05,268750
+1604,2022,May,25,Mexico,0,295000
+1605,2022,May,26,Mexico,0,281000
+1606,2022,May,27,Mexico,0.1,266500
+1607,2022,May,28,Mexico,0,253000
+1608,2022,May,29,Mexico,0.05,318750
+1609,2022,May,30,Mexico,0.1,304500
+1610,2022,May,31,Mexico,0.1,270500
+1611,2022,June,1,Mexico,0,98000
+1612,2022,June,2,Mexico,0.1,123500
+1613,2022,June,3,Mexico,0.05,149750
+1614,2022,June,4,Mexico,0,116000
+1615,2022,June,5,Mexico,0.1,181500
+1616,2022,June,6,Mexico,0.2,147000
+1617,2022,June,7,Mexico,0.05,133750
+1618,2022,June,8,Mexico,0,140000
+1619,2022,June,9,Mexico,0,166000
+1620,2022,June,10,Mexico,0.1,171500
+1621,2022,June,11,Mexico,0.05,177750
+1622,2022,June,12,Mexico,0.15,203250
+1623,2022,June,13,Mexico,0.05,189750
+1624,2022,June,14,Mexico,0.1,175500
+1625,2022,June,15,Mexico,0,222000
+1626,2022,June,16,Mexico,0.15,187250
+1627,2022,June,17,Mexico,0,194000
+1628,2022,June,18,Mexico,0.1,259500
+1629,2022,June,19,Mexico,0.1,225500
+1630,2022,June,20,Mexico,0.05,231750
+1631,2022,June,21,Mexico,0.05,277750
+1632,2022,June,22,Mexico,0,284000
+1633,2022,June,23,Mexico,0.15,289250
+1634,2022,June,24,Mexico,0.05,235750
+1635,2022,June,25,Mexico,0.15,261250
+1636,2022,June,26,Mexico,0.05,287750
+1637,2022,June,27,Mexico,0,314000
+1638,2022,June,28,Mexico,0.05,259750
+1639,2022,June,29,Mexico,0,286000
+1640,2022,June,30,Mexico,0.05,311750
+1641,2022,July,1,Mexico,0,105000
+1642,2022,July,2,Mexico,0.1,150500
+1643,2022,July,3,Mexico,0.05,156750
+1644,2022,July,4,Mexico,0,143000
+1645,2022,July,5,Mexico,0.05,168750
+1646,2022,July,6,Mexico,0.05,194750
+1647,2022,July,7,Mexico,0.1,140500
+1648,2022,July,8,Mexico,0.1,186500
+1649,2022,July,9,Mexico,0,193000
+1650,2022,July,10,Mexico,0.1,218500
+1651,2022,July,11,Mexico,0,225000
+1652,2022,July,12,Mexico,0.1,170500
+1653,2022,July,13,Mexico,0.05,196750
+1654,2022,July,14,Mexico,0.15,182250
+1655,2022,July,15,Mexico,0,189000
+1656,2022,July,16,Mexico,0.05,214750
+1657,2022,July,17,Mexico,0,221000
+1658,2022,July,18,Mexico,0.15,206250
+1659,2022,July,19,Mexico,0,213000
+1660,2022,July,20,Mexico,0.1,218500
+1661,2022,July,21,Mexico,0,285000
+1662,2022,July,22,Mexico,0.1,290500
+1663,2022,July,23,Mexico,0,277000
+1664,2022,July,24,Mexico,0.05,262750
+1665,2022,July,25,Mexico,0.1,248500
+1666,2022,July,26,Mexico,0.05,274750
+1667,2022,July,27,Mexico,0.15,280250
+1668,2022,July,28,Mexico,0.1,326500
+1669,2022,July,29,Mexico,0.1,272500
+1670,2022,July,30,Mexico,0.05,338750
+1671,2022,July,31,Mexico,0,345000
+1672,2022,August,1,Mexico,0.05,111750
+1673,2022,August,2,Mexico,0.1,177500
+1674,2022,August,3,Mexico,0,144000
+1675,2022,August,4,Mexico,0.2,189000
+1676,2022,August,5,Mexico,0,136000
+1677,2022,August,6,Mexico,0.2,141000
+1678,2022,August,7,Mexico,0,208000
+1679,2022,August,8,Mexico,0,154000
+1680,2022,August,9,Mexico,0.1,199500
+1681,2022,August,10,Mexico,0.15,165250
+1682,2022,August,11,Mexico,0.15,171250
+1683,2022,August,12,Mexico,0.05,237750
+1684,2022,August,13,Mexico,0.1,223500
+1685,2022,August,14,Mexico,0,190000
+1686,2022,August,15,Mexico,0,216000
+1687,2022,August,16,Mexico,0,202000
+1688,2022,August,17,Mexico,0,228000
+1689,2022,August,18,Mexico,0,254000
+1690,2022,August,19,Mexico,0,260000
+1691,2022,August,20,Mexico,0.2,225000
+1692,2022,August,21,Mexico,0,292000
+1693,2022,August,22,Mexico,0.2,277000
+1694,2022,August,23,Mexico,0,244000
+1695,2022,August,24,Mexico,0.15,289250
+1696,2022,August,25,Mexico,0,316000
+1697,2022,August,26,Mexico,0.05,321750
+1698,2022,August,27,Mexico,0,268000
+1699,2022,August,28,Mexico,0.1,313500
+1700,2022,August,29,Mexico,0,320000
+1701,2022,August,30,Mexico,0,346000
+1702,2022,August,31,Mexico,0.05,291750
+1703,2022,September,1,Mexico,0.05,178750
+1704,2022,September,2,Mexico,0.05,164750
+1705,2022,September,3,Mexico,0,171000
+1706,2022,September,4,Mexico,0.15,196250
+1707,2022,September,5,Mexico,0.05,162750
+1708,2022,September,6,Mexico,0.05,208750
+1709,2022,September,7,Mexico,0.2,214000
+1710,2022,September,8,Mexico,0.1,220500
+1711,2022,September,9,Mexico,0.1,166500
+1712,2022,September,10,Mexico,0.05,192750
+1713,2022,September,11,Mexico,0.15,198250
+1714,2022,September,12,Mexico,0,225000
+1715,2022,September,13,Mexico,0.1,190500
+1716,2022,September,14,Mexico,0,217000
+1717,2022,September,15,Mexico,0.15,202250
+1718,2022,September,16,Mexico,0,249000
+1719,2022,September,17,Mexico,0.1,214500
+1720,2022,September,18,Mexico,0.2,220000
+1721,2022,September,19,Mexico,0,247000
+1722,2022,September,20,Mexico,0,233000
+1723,2022,September,21,Mexico,0,259000
+1724,2022,September,22,Mexico,0,265000
+1725,2022,September,23,Mexico,0.15,250250
+1726,2022,September,24,Mexico,0.05,316750
+1727,2022,September,25,Mexico,0.1,262500
+1728,2022,September,26,Mexico,0.05,268750
+1729,2022,September,27,Mexico,0.05,334750
+1730,2022,September,28,Mexico,0,321000
+1731,2022,September,29,Mexico,0.05,346750
+1732,2022,September,30,Mexico,0.1,292500
+1733,2022,October,1,Mexico,0.1,125500
+1734,2022,October,2,Mexico,0.05,151750
+1735,2022,October,3,Mexico,0,178000
+1736,2022,October,4,Mexico,0,204000
+1737,2022,October,5,Mexico,0.15,169250
+1738,2022,October,6,Mexico,0.1,215500
+1739,2022,October,7,Mexico,0.1,181500
+1740,2022,October,8,Mexico,0.05,227750
+1741,2022,October,9,Mexico,0.05,173750
+1742,2022,October,10,Mexico,0,220000
+1743,2022,October,11,Mexico,0,246000
+1744,2022,October,12,Mexico,0.05,231750
+1745,2022,October,13,Mexico,0,258000
+1746,2022,October,14,Mexico,0,224000
+1747,2022,October,15,Mexico,0,210000
+1748,2022,October,16,Mexico,0,256000
+1749,2022,October,17,Mexico,0.1,281500
+1750,2022,October,18,Mexico,0,288000
+1751,2022,October,19,Mexico,0.1,253500
+1752,2022,October,20,Mexico,0,240000
+1753,2022,October,21,Mexico,0.1,305500
+1754,2022,October,22,Mexico,0,252000
+1755,2022,October,23,Mexico,0,258000
+1756,2022,October,24,Mexico,0.2,263000
+1757,2022,October,25,Mexico,0,330000
+1758,2022,October,26,Mexico,0.1,295500
+1759,2022,October,27,Mexico,0.1,281500
+1760,2022,October,28,Mexico,0.15,327250
+1761,2022,October,29,Mexico,0,354000
+1762,2022,October,30,Mexico,0,360000
+1763,2022,October,31,Mexico,0.05,345750
+1764,2022,November,1,Mexico,0.15,132250
+1765,2022,November,2,Mexico,0.1,138500
+1766,2022,November,3,Mexico,0,165000
+1767,2022,November,4,Mexico,0.05,210750
+1768,2022,November,5,Mexico,0,177000
+1769,2022,November,6,Mexico,0,163000
+1770,2022,November,7,Mexico,0,209000
+1771,2022,November,8,Mexico,0.1,174500
+1772,2022,November,9,Mexico,0.2,240000
+1773,2022,November,10,Mexico,0,227000
+1774,2022,November,11,Mexico,0.15,192250
+1775,2022,November,12,Mexico,0,199000
+1776,2022,November,13,Mexico,0,205000
+1777,2022,November,14,Mexico,0.05,230750
+1778,2022,November,15,Mexico,0.1,256500
+1779,2022,November,16,Mexico,0.15,242250
+1780,2022,November,17,Mexico,0.05,228750
+1781,2022,November,18,Mexico,0,235000
+1782,2022,November,19,Mexico,0.2,300000
+1783,2022,November,20,Mexico,0.1,266500
+1784,2022,November,21,Mexico,0.1,312500
+1785,2022,November,22,Mexico,0.05,298750
+1786,2022,November,23,Mexico,0,325000
+1787,2022,November,24,Mexico,0.15,290250
+1788,2022,November,25,Mexico,0.1,276500
+1789,2022,November,26,Mexico,0.1,342500
+1790,2022,November,27,Mexico,0.1,348500
+1791,2022,November,28,Mexico,0.05,314750
+1792,2022,November,29,Mexico,0.1,360500
+1793,2022,November,30,Mexico,0.1,306500
+1794,2022,December,1,Mexico,0.05,139750
+1795,2022,December,2,Mexico,0.2,145000
+1796,2022,December,3,Mexico,0,172000
+1797,2022,December,4,Mexico,0.2,157000
+1798,2022,December,5,Mexico,0.05,183750
+1799,2022,December,6,Mexico,0.1,169500
+1800,2022,December,7,Mexico,0.2,175000
+1801,2022,December,8,Mexico,0.1,241500
+1802,2022,December,9,Mexico,0,248000
+1803,2022,December,10,Mexico,0.05,193750
+1804,2022,December,11,Mexico,0.15,219250
+1805,2022,December,12,Mexico,0.05,225750
+1806,2022,December,13,Mexico,0.1,251500
+1807,2022,December,14,Mexico,0.1,257500
+1808,2022,December,15,Mexico,0,244000
+1809,2022,December,16,Mexico,0.1,229500
+1810,2022,December,17,Mexico,0.05,235750
+1811,2022,December,18,Mexico,0,242000
+1812,2022,December,19,Mexico,0.1,247500
+1813,2022,December,20,Mexico,0,294000
+1814,2022,December,21,Mexico,0,280000
+1815,2022,December,22,Mexico,0.1,265500
+1816,2022,December,23,Mexico,0.15,311250
+1817,2022,December,24,Mexico,0,278000
+1818,2022,December,25,Mexico,0.1,343500
+1819,2022,December,26,Mexico,0.05,309750
+1820,2022,December,27,Mexico,0,296000
+1821,2022,December,28,Mexico,0.1,301500
+1822,2022,December,29,Mexico,0.15,307250
+1823,2022,December,30,Mexico,0,374000
+1824,2022,December,31,Mexico,0.15,319250
+1825,2022,January,1,Canada,0,54000
+1826,2022,January,2,Canada,0,100000
+1827,2022,January,3,Canada,0.15,105250
+1828,2022,January,4,Canada,0,72000
+1829,2022,January,5,Canada,0.2,117000
+1830,2022,January,6,Canada,0,84000
+1831,2022,January,7,Canada,0.05,89750
+1832,2022,January,8,Canada,0.05,135750
+1833,2022,January,9,Canada,0.15,121250
+1834,2022,January,10,Canada,0,108000
+1835,2022,January,11,Canada,0.05,153750
+1836,2022,January,12,Canada,0.1,159500
+1837,2022,January,13,Canada,0,126000
+1838,2022,January,14,Canada,0.15,191250
+1839,2022,January,15,Canada,0.05,137750
+1840,2022,January,16,Canada,0.15,183250
+1841,2022,January,17,Canada,0,190000
+1842,2022,January,18,Canada,0,156000
+1843,2022,January,19,Canada,0.05,161750
+1844,2022,January,20,Canada,0.05,167750
+1845,2022,January,21,Canada,0,214000
+1846,2022,January,22,Canada,0.15,239250
+1847,2022,January,23,Canada,0.1,185500
+1848,2022,January,24,Canada,0,252000
+1849,2022,January,25,Canada,0,198000
+1850,2022,January,26,Canada,0.15,203250
+1851,2022,January,27,Canada,0.15,209250
+1852,2022,January,28,Canada,0.15,215250
+1853,2022,January,29,Canada,0,242000
+1854,2022,January,30,Canada,0,248000
+1855,2022,January,31,Canada,0.15,273250
+1856,2022,February,1,Canada,0,61000
+1857,2022,February,2,Canada,0.1,106500
+1858,2022,February,3,Canada,0,113000
+1859,2022,February,4,Canada,0,79000
+1860,2022,February,5,Canada,0.15,84250
+1861,2022,February,6,Canada,0.05,90750
+1862,2022,February,7,Canada,0.2,156000
+1863,2022,February,8,Canada,0,103000
+1864,2022,February,9,Canada,0.1,108500
+1865,2022,February,10,Canada,0,115000
+1866,2022,February,11,Canada,0,181000
+1867,2022,February,12,Canada,0.05,186750
+1868,2022,February,13,Canada,0.05,132750
+1869,2022,February,14,Canada,0.15,138250
+1870,2022,February,15,Canada,0.2,204000
+1871,2022,February,16,Canada,0.05,170750
+1872,2022,February,17,Canada,0,157000
+1873,2022,February,18,Canada,0.05,202750
+1874,2022,February,19,Canada,0.1,208500
+1875,2022,February,20,Canada,0.2,234000
+1876,2022,February,21,Canada,0.2,180000
+1877,2022,February,22,Canada,0.15,186250
+1878,2022,February,23,Canada,0.1,212500
+1879,2022,February,24,Canada,0,219000
+1880,2022,February,25,Canada,0,205000
+1881,2022,February,26,Canada,0,211000
+1882,2022,February,27,Canada,0,217000
+1883,2022,February,28,Canada,0,223000
+1884,2022,March,1,Canada,0.15,107250
+1885,2022,March,2,Canada,0.05,93750
+1886,2022,March,3,Canada,0.05,139750
+1887,2022,March,4,Canada,0.15,105250
+1888,2022,March,5,Canada,0,92000
+1889,2022,March,6,Canada,0,118000
+1890,2022,March,7,Canada,0.05,163750
+1891,2022,March,8,Canada,0.05,149750
+1892,2022,March,9,Canada,0,136000
+1893,2022,March,10,Canada,0.15,161250
+1894,2022,March,11,Canada,0.2,147000
+1895,2022,March,12,Canada,0.1,153500
+1896,2022,March,13,Canada,0.1,199500
+1897,2022,March,14,Canada,0.05,205750
+1898,2022,March,15,Canada,0.2,211000
+1899,2022,March,16,Canada,0.2,217000
+1900,2022,March,17,Canada,0.1,163500
+1901,2022,March,18,Canada,0.05,169750
+1902,2022,March,19,Canada,0.05,175750
+1903,2022,March,20,Canada,0,222000
+1904,2022,March,21,Canada,0.2,207000
+1905,2022,March,22,Canada,0.05,233750
+1906,2022,March,23,Canada,0,220000
+1907,2022,March,24,Canada,0,266000
+1908,2022,March,25,Canada,0.1,251500
+1909,2022,March,26,Canada,0.1,217500
+1910,2022,March,27,Canada,0.1,243500
+1911,2022,March,28,Canada,0.05,229750
+1912,2022,March,29,Canada,0.05,295750
+1913,2022,March,30,Canada,0.15,241250
+1914,2022,March,31,Canada,0.1,287500
+1915,2022,April,1,Canada,0.15,74250
+1916,2022,April,2,Canada,0.1,100500
+1917,2022,April,3,Canada,0.05,146750
+1918,2022,April,4,Canada,0,153000
+1919,2022,April,5,Canada,0.1,118500
+1920,2022,April,6,Canada,0,145000
+1921,2022,April,7,Canada,0.05,130750
+1922,2022,April,8,Canada,0,157000
+1923,2022,April,9,Canada,0.15,122250
+1924,2022,April,10,Canada,0.1,168500
+1925,2022,April,11,Canada,0,175000
+1926,2022,April,12,Canada,0.1,160500
+1927,2022,April,13,Canada,0.05,206750
+1928,2022,April,14,Canada,0,193000
+1929,2022,April,15,Canada,0.05,158750
+1930,2022,April,16,Canada,0,185000
+1931,2022,April,17,Canada,0.1,170500
+1932,2022,April,18,Canada,0,217000
+1933,2022,April,19,Canada,0,223000
+1934,2022,April,20,Canada,0.05,188750
+1935,2022,April,21,Canada,0.1,194500
+1936,2022,April,22,Canada,0.15,240250
+1937,2022,April,23,Canada,0,227000
+1938,2022,April,24,Canada,0.1,212500
+1939,2022,April,25,Canada,0.05,218750
+1940,2022,April,26,Canada,0.05,264750
+1941,2022,April,27,Canada,0.2,290000
+1942,2022,April,28,Canada,0,237000
+1943,2022,April,29,Canada,0.1,302500
+1944,2022,April,30,Canada,0.15,248250
+1945,2022,May,1,Canada,0.1,141500
+1946,2022,May,2,Canada,0.05,147750
+1947,2022,May,3,Canada,0.05,93750
+1948,2022,May,4,Canada,0.05,139750
+1949,2022,May,5,Canada,0.15,125250
+1950,2022,May,6,Canada,0,152000
+1951,2022,May,7,Canada,0.1,117500
+1952,2022,May,8,Canada,0,124000
+1953,2022,May,9,Canada,0.05,169750
+1954,2022,May,10,Canada,0.1,195500
+1955,2022,May,11,Canada,0.05,141750
+1956,2022,May,12,Canada,0,148000
+1957,2022,May,13,Canada,0,154000
+1958,2022,May,14,Canada,0.15,159250
+1959,2022,May,15,Canada,0.2,205000
+1960,2022,May,16,Canada,0.1,231500
+1961,2022,May,17,Canada,0,238000
+1962,2022,May,18,Canada,0,204000
+1963,2022,May,19,Canada,0.15,249250
+1964,2022,May,20,Canada,0.2,215000
+1965,2022,May,21,Canada,0.15,221250
+1966,2022,May,22,Canada,0.15,227250
+1967,2022,May,23,Canada,0,214000
+1968,2022,May,24,Canada,0.2,219000
+1969,2022,May,25,Canada,0.05,285750
+1970,2022,May,26,Canada,0,252000
+1971,2022,May,27,Canada,0,278000
+1972,2022,May,28,Canada,0,244000
+1973,2022,May,29,Canada,0,250000
+1974,2022,May,30,Canada,0.1,315500
+1975,2022,May,31,Canada,0,302000
+1976,2022,June,1,Canada,0.1,88500
+1977,2022,June,2,Canada,0.1,134500
+1978,2022,June,3,Canada,0.2,100000
+1979,2022,June,4,Canada,0,127000
+1980,2022,June,5,Canada,0,113000
+1981,2022,June,6,Canada,0.1,178500
+1982,2022,June,7,Canada,0.15,144250
+1983,2022,June,8,Canada,0.05,150750
+1984,2022,June,9,Canada,0.1,156500
+1985,2022,June,10,Canada,0,203000
+1986,2022,June,11,Canada,0.2,168000
+1987,2022,June,12,Canada,0,175000
+1988,2022,June,13,Canada,0,161000
+1989,2022,June,14,Canada,0,207000
+1990,2022,June,15,Canada,0.05,212750
+1991,2022,June,16,Canada,0,239000
+1992,2022,June,17,Canada,0,225000
+1993,2022,June,18,Canada,0.05,250750
+1994,2022,June,19,Canada,0,217000
+1995,2022,June,20,Canada,0.05,222750
+1996,2022,June,21,Canada,0.05,208750
+1997,2022,June,22,Canada,0,255000
+1998,2022,June,23,Canada,0,261000
+1999,2022,June,24,Canada,0,227000
+2000,2022,June,25,Canada,0,293000
+2001,2022,June,26,Canada,0,299000
+2002,2022,June,27,Canada,0.15,304250
+2003,2022,June,28,Canada,0.1,310500
+2004,2022,June,29,Canada,0.05,256750
+2005,2022,June,30,Canada,0,283000
+2006,2022,July,1,Canada,0.1,135500
+2007,2022,July,2,Canada,0.15,141250
+2008,2022,July,3,Canada,0.2,167000
+2009,2022,July,4,Canada,0.05,153750
+2010,2022,July,5,Canada,0,140000
+2011,2022,July,6,Canada,0,166000
+2012,2022,July,7,Canada,0,152000
+2013,2022,July,8,Canada,0.05,177750
+2014,2022,July,9,Canada,0.15,143250
+2015,2022,July,10,Canada,0.05,169750
+2016,2022,July,11,Canada,0.05,195750
+2017,2022,July,12,Canada,0,202000
+2018,2022,July,13,Canada,0,168000
+2019,2022,July,14,Canada,0,174000
+2020,2022,July,15,Canada,0.05,199750
+2021,2022,July,16,Canada,0.1,225500
+2022,2022,July,17,Canada,0.2,251000
+2023,2022,July,18,Canada,0.2,197000
+2024,2022,July,19,Canada,0.05,263750
+2025,2022,July,20,Canada,0,230000
+2026,2022,July,21,Canada,0,236000
+2027,2022,July,22,Canada,0.15,221250
+2028,2022,July,23,Canada,0,268000
+2029,2022,July,24,Canada,0.15,233250
+2030,2022,July,25,Canada,0,260000
+2031,2022,July,26,Canada,0.2,245000
+2032,2022,July,27,Canada,0.05,291750
+2033,2022,July,28,Canada,0,318000
+2034,2022,July,29,Canada,0.2,323000
+2035,2022,July,30,Canada,0,330000
+2036,2022,July,31,Canada,0,276000
+2037,2022,August,1,Canada,0,103000
+2038,2022,August,2,Canada,0.1,108500
+2039,2022,August,3,Canada,0.15,114250
+2040,2022,August,4,Canada,0,121000
+2041,2022,August,5,Canada,0.1,166500
+2042,2022,August,6,Canada,0,153000
+2043,2022,August,7,Canada,0,139000
+2044,2022,August,8,Canada,0.2,144000
+2045,2022,August,9,Canada,0,191000
+2046,2022,August,10,Canada,0.1,156500
+2047,2022,August,11,Canada,0.1,162500
+2048,2022,August,12,Canada,0.15,188250
+2049,2022,August,13,Canada,0.1,194500
+2050,2022,August,14,Canada,0.1,220500
+2051,2022,August,15,Canada,0.2,206000
+2052,2022,August,16,Canada,0,193000
+2053,2022,August,17,Canada,0,199000
+2054,2022,August,18,Canada,0,205000
+2055,2022,August,19,Canada,0.15,210250
+2056,2022,August,20,Canada,0.1,216500
+2057,2022,August,21,Canada,0,263000
+2058,2022,August,22,Canada,0.1,228500
+2059,2022,August,23,Canada,0.1,294500
+2060,2022,August,24,Canada,0.2,260000
+2061,2022,August,25,Canada,0,267000
+2062,2022,August,26,Canada,0,253000
+2063,2022,August,27,Canada,0.05,318750
+2064,2022,August,28,Canada,0,285000
+2065,2022,August,29,Canada,0,291000
+2066,2022,August,30,Canada,0.15,316250
+2067,2022,August,31,Canada,0.1,342500
+2068,2022,September,1,Canada,0,110000
+2069,2022,September,2,Canada,0,116000
+2070,2022,September,3,Canada,0,182000
+2071,2022,September,4,Canada,0,148000
+2072,2022,September,5,Canada,0,154000
+2073,2022,September,6,Canada,0.05,139750
+2074,2022,September,7,Canada,0,166000
+2075,2022,September,8,Canada,0,172000
+2076,2022,September,9,Canada,0,198000
+2077,2022,September,10,Canada,0,164000
+2078,2022,September,11,Canada,0,230000
+2079,2022,September,12,Canada,0.1,235500
+2080,2022,September,13,Canada,0,222000
+2081,2022,September,14,Canada,0.05,207750
+2082,2022,September,15,Canada,0,254000
+2083,2022,September,16,Canada,0.05,239750
+2084,2022,September,17,Canada,0,206000
+2085,2022,September,18,Canada,0,212000
+2086,2022,September,19,Canada,0.05,257750
+2087,2022,September,20,Canada,0,264000
+2088,2022,September,21,Canada,0.1,229500
+2089,2022,September,22,Canada,0.1,295500
+2090,2022,September,23,Canada,0.05,281750
+2091,2022,September,24,Canada,0,248000
+2092,2022,September,25,Canada,0,254000
+2093,2022,September,26,Canada,0.1,319500
+2094,2022,September,27,Canada,0.05,305750
+2095,2022,September,28,Canada,0.15,311250
+2096,2022,September,29,Canada,0.2,297000
+2097,2022,September,30,Canada,0,304000
+2098,2022,October,1,Canada,0,157000
+2099,2022,October,2,Canada,0,143000
+2100,2022,October,3,Canada,0.05,128750
+2101,2022,October,4,Canada,0,135000
+2102,2022,October,5,Canada,0.1,140500
+2103,2022,October,6,Canada,0.1,146500
+2104,2022,October,7,Canada,0.2,152000
+2105,2022,October,8,Canada,0.15,158250
+2106,2022,October,9,Canada,0,185000
+2107,2022,October,10,Canada,0,231000
+2108,2022,October,11,Canada,0.05,196750
+2109,2022,October,12,Canada,0,243000
+2110,2022,October,13,Canada,0,189000
+2111,2022,October,14,Canada,0,195000
+2112,2022,October,15,Canada,0,201000
+2113,2022,October,16,Canada,0,207000
+2114,2022,October,17,Canada,0,253000
+2115,2022,October,18,Canada,0,259000
+2116,2022,October,19,Canada,0,225000
+2117,2022,October,20,Canada,0.05,290750
+2118,2022,October,21,Canada,0.05,256750
+2119,2022,October,22,Canada,0,243000
+2120,2022,October,23,Canada,0,249000
+2121,2022,October,24,Canada,0.05,254750
+2122,2022,October,25,Canada,0.05,260750
+2123,2022,October,26,Canada,0.2,286000
+2124,2022,October,27,Canada,0.05,332750
+2125,2022,October,28,Canada,0.1,318500
+2126,2022,October,29,Canada,0.05,324750
+2127,2022,October,30,Canada,0.05,290750
+2128,2022,October,31,Canada,0.05,356750
+2129,2022,November,1,Canada,0.15,183250
+2130,2022,November,2,Canada,0,130000
+2131,2022,November,3,Canada,0.05,195750
+2132,2022,November,4,Canada,0.05,161750
+2133,2022,November,5,Canada,0.1,207500
+2134,2022,November,6,Canada,0.1,213500
+2135,2022,November,7,Canada,0.05,219750
+2136,2022,November,8,Canada,0.05,225750
+2137,2022,November,9,Canada,0.05,211750
+2138,2022,November,10,Canada,0.05,217750
+2139,2022,November,11,Canada,0.1,203500
+2140,2022,November,12,Canada,0.05,189750
+2141,2022,November,13,Canada,0,196000
+2142,2022,November,14,Canada,0.15,201250
+2143,2022,November,15,Canada,0.15,247250
+2144,2022,November,16,Canada,0,214000
+2145,2022,November,17,Canada,0.05,279750
+2146,2022,November,18,Canada,0.1,265500
+2147,2022,November,19,Canada,0,232000
+2148,2022,November,20,Canada,0,258000
+2149,2022,November,21,Canada,0.05,283750
+2150,2022,November,22,Canada,0,310000
+2151,2022,November,23,Canada,0.15,275250
+2152,2022,November,24,Canada,0,302000
+2153,2022,November,25,Canada,0,308000
+2154,2022,November,26,Canada,0.1,273500
+2155,2022,November,27,Canada,0,340000
+2156,2022,November,28,Canada,0,306000
+2157,2022,November,29,Canada,0.2,351000
+2158,2022,November,30,Canada,0,298000
+2159,2022,December,1,Canada,0,171000
+2160,2022,December,2,Canada,0.15,196250
+2161,2022,December,3,Canada,0.2,182000
+2162,2022,December,4,Canada,0.05,148750
+2163,2022,December,5,Canada,0.1,194500
+2164,2022,December,6,Canada,0.05,160750
+2165,2022,December,7,Canada,0.05,226750
+2166,2022,December,8,Canada,0,233000
+2167,2022,December,9,Canada,0,179000
+2168,2022,December,10,Canada,0.2,244000
+2169,2022,December,11,Canada,0.1,190500
+2170,2022,December,12,Canada,0,237000
+2171,2022,December,13,Canada,0.05,202750
+2172,2022,December,14,Canada,0,249000
+2173,2022,December,15,Canada,0,235000
+2174,2022,December,16,Canada,0.15,220250
+2175,2022,December,17,Canada,0.15,246250
+2176,2022,December,18,Canada,0.05,272750
+2177,2022,December,19,Canada,0.05,278750
+2178,2022,December,20,Canada,0.05,264750
+2179,2022,December,21,Canada,0,251000
+2180,2022,December,22,Canada,0,297000
+2181,2022,December,23,Canada,0,263000
+2182,2022,December,24,Canada,0,269000
+2183,2022,December,25,Canada,0.05,274750
+2184,2022,December,26,Canada,0.05,340750
+2185,2022,December,27,Canada,0,327000
+2186,2022,December,28,Canada,0.05,292750
+2187,2022,December,29,Canada,0.15,338250
+2188,2022,December,30,Canada,0.1,304500
+2189,2022,December,31,Canada,0,311000

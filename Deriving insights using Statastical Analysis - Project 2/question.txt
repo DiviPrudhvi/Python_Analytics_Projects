@@ -1,0 +1,5 @@
+
+The datasets include cricket world cup batting statistics.After selecting a dataset, fully analyze it using approaches and tools covered thus far in the course. You should not use every approach, method, etc. Instead, determine the best approach to derive business insights, based on the data and variables present in the dataset. Generate important and insightful plots and charts, but do not include unnecessary ones. You can comment-out any plotting code that you did not use or that was not insightful. 
+
+
+Project datasets:cricket_wc_23_batting.csv
